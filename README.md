@@ -13,10 +13,10 @@ Abaixo estará a lista dos tutoriais existentes no repositório, no qual cada um
 ## Tutoriais existentes no repositório
 
 - Conteúdos
-	- [C#](#c#)
+	- [C#](#c-sharp)
 
 
-## C#
+## C-Sharp (C#)
 
 - [Cálculo de área de círculo](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/numbers-in-csharp?tutorial-step=5)
 	Tutorial interativo sobre os números em C#, ensina o básico da manipulação com os números na linguagem.
