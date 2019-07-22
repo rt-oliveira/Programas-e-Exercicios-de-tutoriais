@@ -13,7 +13,7 @@ Abaixo estará a lista dos tutoriais existentes no repositório, no qual cada um
 ## Tutoriais existentes no repositório
 
 - Conteúdos
-	- [C#](#c-sharp)
+	- [C#](#c-sharp-c)
 
 
 ## C-Sharp (C#)
