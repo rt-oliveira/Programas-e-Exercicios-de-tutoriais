@@ -8,7 +8,7 @@ Site de documentação da Microsoft (Microsoft Docs)|C#
 
 Este repositório, de certa forma, servirá como um acompanhamento de minha familiadade/experiência com as linguagens e tecnologias.
 
-Abaixo estará a lista dos tutoriais existentes no repositório, no qual cada um tem um link para o arquivo respectivo e para o site "fonte" deste tutorial.
+Abaixo estará a lista dos exercícios e programas feitos de tutoriais que estão presentes no repositório, no qual cada um tem um link para o arquivo respectivo e para o site na qual o exercício é oriundo (o site do tutorial, em si).
 
 ## Tutoriais existentes no repositório
 
