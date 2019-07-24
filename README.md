@@ -20,6 +20,12 @@ Aqui estarão alguns programas e exercícios feitos de sites com tutoriais de li
 
 Este repositório, de certa forma, servirá como um acompanhamento de minha familiadade/experiência com as linguagens e tecnologias.
 
+## Observação
+
+Parte dos tutoriais terão uma adaptação, isto é, por exemplo, alguns textos que são impressos na tela sofrerão traduções, logo, seus conteúdos estarão em português, caso não estejam.
+
+---
+
 Abaixo estará a lista dos exercícios e programas feitos de tutoriais que estão presentes no repositório, no qual cada um tem um link para o arquivo respectivo e para o site na qual o exercício é oriundo (o site do tutorial, em si).
 
 ## Tutoriais existentes no repositório
