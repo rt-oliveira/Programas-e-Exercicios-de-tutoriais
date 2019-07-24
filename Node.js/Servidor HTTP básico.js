@@ -1,8 +1,9 @@
 // "Importa" o módulo http
 var http = require('http');
 
-// Cria o servidor HTTP
+// Cria o servidor HTTP.
 var server = http.createServer(function(req,res){
+	// A resposta terá o código HTTP 200, que significa OK
 	res.writeHead(200,{"Content-Type": "text/plain"});
 	res.end("Welcome to my first Node.js server...");
 });
