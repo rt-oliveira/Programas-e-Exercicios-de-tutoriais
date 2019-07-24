@@ -30,6 +30,6 @@ fs.exists(arq,function(existe){
 	Isso é o chamado "Callback Hell".
 	
 	Uma solução para evitar isso 
-	é programar cada função callback	separadamente,
+	é programar cada função callback separadamente,
 	dando um nome a cada uma delas, 
 	e depois apenas passá-las como parâmetro.*/
