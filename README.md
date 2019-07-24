@@ -47,6 +47,7 @@ Soma de números entre 1 e 20 divisíveis por 3|Tutorial interativo sobre tomada
 
 |Nome|Descrição|Site do Tutorial|Arquivo|
 |----|---------|----------------|-------|
+|Encadeamento de funções callback sem callback hell|Mostra um exemplo de como contornar o Callback Hell.<br>Com isso, o código fica mais fácil de ser entendido.|[Site do tutorial](http://www.youtube.com/watch?v=qDUOOKN8O8U)|[Arquivo](Node.js/Encadeamento%20de%20funções%20callback%20sem%20callback%20hell.js)
 |Exemplo de Callback Hell|Mostra um exemplo disso, que pode ser entendido como um encadeamento de funções callback.<br>Isto torna o código mais difícil de ser entendido.|[Site do tutorial](http://www.youtube.com/watch?v=qDUOOKN8O8U)|[Arquivo](Node.js/Exemplo%20de%20Callback%20Hell.js)
 |Leitura simples de arquivo, de maneira assíncrona|Similar ao exemplo anterior, porém, neste caso, o processo de leitura é feito de maneira assíncrona, o arquivo será lido enquanto o programa continua sua execução.|[Site do tutorial](http://www.youtube.com/watch?v=qDUOOKN8O8U)|[Arquivo](Node.js/Leitura%20simples%20de%20arquivo,%20de%20maneira%20assíncrona.js)
 |Leitura simples de arquivo, de maneira síncrona|Mostra um exemplo de leitura de arquivo de maneira síncrona, ou bloqueante.<br>O programa fica bloqueado até o arquivo terminar de ser lido.|[Site do tutorial](http://www.youtube.com/watch?v=qDUOOKN8O8U)|[Arquivo](Node.js/Leitura%20simples%20de%20arquivo,%20de%20maneira%20síncrona.js)
