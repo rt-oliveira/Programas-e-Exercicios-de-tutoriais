@@ -3,8 +3,10 @@ var evento=require("events")
 var emissorEvento=new evento.EventEmitter();
 
 /* Está fazendo a associação entre um evento 
-	e uma função callback que deve ser executada
-	quando acontece tal tipo de evento.
+   e uma função callback que deve ser executada
+   quando acontece tal tipo de evento.
+   
+   Está criando um listener de uma função.
 */
 emissorEvento.on("adicionarUsuario",function(){
 	console.log("Evento adicionarUsuario disparado");
