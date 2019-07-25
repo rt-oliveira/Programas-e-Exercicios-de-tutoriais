@@ -13,6 +13,11 @@ function handler(){
 */
 emissorEvento.on("meuEvento",handler);
 
+/*	Ao emitir 'meuEvento', a função 'handler', dado como callback
+	do evento será executado.
+*/
+emissorEvento.emit("meuEvento");
+
 /* Está removendo um listener do evento meuEvento.
 	Para fazer isso, é preciso que a função callback tenha um nome.
 */
