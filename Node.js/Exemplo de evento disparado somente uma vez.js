@@ -23,5 +23,8 @@ emissorEvento.emit("adicionarUsuario",uid,pwd);
 uid="js";
 pwd="pwdtemp";
 
-// Está emitindo um evento do tipo "adicionarUsuario"
+/* Está emitindo um evento do tipo "adicionarUsuario", mas desta vez
+   a função callback associada a este evento não será executada, pois
+   esta não estará mais filiada ao evento.
+*/
 emissorEvento.emit("adicionarUsuario",uid,pwd);
