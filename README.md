@@ -49,6 +49,7 @@ Cálculo de área de círculo|Tutorial interativo sobre os números em C#.<br>En
 |Exemplo de verificação de tamanho de tipo de dado|Este exemplo mostra o uso da função *sizeof*.<br>Essa função mostra o tamanho de cada tipo de dado.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_data_types.htm)|[Arquivo](C%23/Exemplo%20de%20verificação%20de%20tamanho%20de%20tipo%20de%20dado.cs)|
 |Hello World|Exemplo mais básico de todos.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_program_structure.htm)|[Arquivo](C%23/Hello%20World.cs)|
 Primeiros 20 números de Fibonacci com listas|Tutorial interativo sobre as listas em C#.|[Site do tutorial](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/list-collection)|[Arquivo](C%23/Primeiros%2020%20n%C3%BAmeros%20de%20Fibonacci%20com%20listas.cs)|
+|Sequência de escape|Mostra um exemplo de uso das sequências de escape, como \n e \t, por exemplo.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_constants)|[Arquivo](C%23/Sequência%20de%20escape.cs)|
 Soma de números entre 1 e 20 divisíveis por 3|Tutorial interativo sobre tomadas de decisão e *loops*.|[Site do tutorial](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/branches-and-loops)|[Arquivo](C%23/Soma%20de%20n%C3%BAmeros%20entre%201%20e%2020%20divis%C3%ADveis%20por%203.cs)|
 	
 ## Node.js
