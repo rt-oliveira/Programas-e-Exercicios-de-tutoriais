@@ -1,3 +1,3 @@
 # Remove arquivos de teste
-test.txt
+*.txt
 *.exe
