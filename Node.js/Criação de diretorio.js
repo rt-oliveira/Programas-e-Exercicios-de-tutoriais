@@ -1,8 +1,8 @@
 var fs=require("fs");
-var caminho=__dirname+"/meuDiretÛrio";
+var caminho=__dirname+"/meuDiret√≥rio";
 
-// MÈtodo que ir· criar um diretÛrio
+// M√©todo que ir√° criar um diret√≥rio
 fs.mkdir(caminho,function(erro){
 	if(erro)
-  	console.error("Erro no mkdir: "+erro.message);
+  		console.error("Erro no mkdir: "+erro.message);
 });
