@@ -1,3 +1,4 @@
 # Remove arquivos de teste
 *.txt
+# Executáveis
 *.exe
