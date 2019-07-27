@@ -59,6 +59,7 @@ Uso de constantes|Mostra um exemplo de uso de constantes.|[Site do tutorial](htt
 Nome|Descrição|Site do Tutorial|Arquivo|
 ----|---------|----------------|-------|
 Constantes \_\_filename e \_\_dirname|Mostra um exemplo de uso de duas constantes, que podem ajudam no tratamento de arquivos, \_\_filename e \_\_dirname.|[Site do tutorial](http://www.youtube.com/watch?v=xiXuOWYxAok)|[Arquivo](Node.js/Constantes%20__filename%20e%20__dirname.js)|
+Criação de diretorio|Mostra um exemplo de como criar diretório no Node.js|[Site do tutorial](http://www.youtube.com/watch?v=xiXuOWYxAok)|[Arquivo](Node.js/Criação%20de%20diretorio.js)|
 Diretório atual de trabalho|Mostra um exemplo de como recuperar o diretório atual de trabalho do programa Node.js.|[Site do tutorial](http://www.youtube.com/watch?v=xiXuOWYxAok)|[Arquivo](Node.js/Diretório%20atual%20de%20trabalho.js)|
 Encadeamento de funções callback sem callback hell|Mostra um exemplo de como contornar o Callback Hell.<br>Com isso, o código fica mais fácil de ser entendido.|[Site do tutorial](http://www.youtube.com/watch?v=qDUOOKN8O8U)|[Arquivo](Node.js/Encadeamento%20de%20funções%20callback%20sem%20callback%20hell.js)
 Escrita em arquivo, de maneira assíncrona|Mostra como um arquivo pode ser escrito, de maneira assíncrona.|[Site do tutorial](http://www.youtube.com/watch?v=xiXuOWYxAok)|[Arquivo](Node.js/Escrita%20em%20arquivo,%20de%20maneira%20assíncrona.js)|
