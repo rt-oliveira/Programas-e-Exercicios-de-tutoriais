@@ -44,6 +44,7 @@ Abaixo estará a lista dos exercícios e programas feitos de tutoriais que estã
 Nome|Descrição|Site do Tutorial|Arquivo
 --|--|--|--
 Cálculo de área de círculo|Tutorial interativo sobre os números em C#.<br>Ensina o básico de manipulação com os números na linguagem.|[Site do tutorial](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/numbers-in-csharp)|[Arquivo](C%23/C%C3%A1lculo%20de%20%C3%A1rea%20de%20c%C3%ADrculo.cs)|
+Classe Array|Um exemplo de uso de alguns métodos da classe Array.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_array_class.htm)|[Arquivo](C%23/Classe%20Array.cs)|
 Coalescência de nullable|Mostra um exemplo do operador de coalescência de nullable, um operador que pode fazer uma variável de um tipo ser convertido para outro de tipo Nullable.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_nullables.htm)|[Arquivo](C%23/Coalescência%20de%20nullable.cs)|
 Exemplo de conversão de tipo explícita|Mostra um exemplo de conversão explícita entre tipos de dados.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_type_conversion.htm)|[Arquivo](C%23/Exemplo%20de%20conversão%20de%20tipo%20explícita.cs)|
 Exemplo de definição de variáveis|Mostra um exemplo de como definir variáveis em C#|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_variables.htm)|[Arquivo](C%23/Exemplo%20de%20definição%20de%20variáveis.cs)|
@@ -54,6 +55,7 @@ Exemplo de operadores lógicos|Mostra um exemplo de uso dos operadores lógicos.
 Exemplo de operadores relacionais|Mostra um exemplo de uso dos operadores relacionais.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_relational_operators.htm)|[Arquivo](%23/Exemplo%20de%20operadores%20relacionais.cs)|
 Exemplo de outros operadores|Mostra outros operadores que existem no C#.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_misc_operators.htm)|[Arquivo](C%23/Exemplo%20de%20outros%20operadores.cs)|
 Exemplo de verificação de tamanho de tipo de dado|Este exemplo mostra o uso da função *sizeof*.<br>Essa função mostra o tamanho de cada tipo de dado.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_data_types.htm)|[Arquivo](C%23/Exemplo%20de%20verificação%20de%20tamanho%20de%20tipo%20de%20dado.cs)|
+Função foreach|Exemplo de uso da função foreach, que serve para "passear" por todos os elementos de um vetor.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_arrays.htm)|[Arquivo](C%23/Função%20foreach.cs)|
 Hello World|Exemplo mais básico de todos.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_program_structure.htm)|[Arquivo](C%23/Hello%20World.cs)|
 If else|Mostra um exemplo de uso de uma cadeia de if..else if..else.|[Site do tutorial](https://www.tutorialspoint.com/csharp/if_else_statement_in_csharp.htm)|[Arquivo](C%23/If%20else.cs)|
 Laço do..while|Um exemplo do laço de repetição *do..while*.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_do_while_loop.htm)|[Arquivo](C%23/Laço%20do..while.cs)|
@@ -66,10 +68,14 @@ Passagem de parâmetros de saída|Um exemplo de coo passar um parâmetro de saí
 Passagem de parâmetros por referência|Um exemplo de como passar parâmetros a métodos por referência.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_reference_parameters.htm)|[Arquivo](C%23/Passagem%20de%20parâmetros%20por%20referência.cs)|
 Precedência de operadores|Mostra como a ordem dos parênteses ou dos operadores em uma contra pode fazer diferença no resultado, em um programa C#.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_operators_precedence.htm)|[Arquivo](C%23/Precedência%20de%20operadores.cs)|
 Primeiros 20 números de Fibonacci com listas|Tutorial interativo sobre as listas em C#.|[Site do tutorial](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/list-collection)|[Arquivo](C%23/Primeiros%2020%20n%C3%BAmeros%20de%20Fibonacci%20com%20listas.cs)|
+Quantidade indeterminada de argumentos|Mostra como definir e usar um método que possui uma quantidade indeterminada de argumentos.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_param_arrays.htm)|[Arquivo](C%23/Quantidade%20indeterminada%20de%20argumentos.cs)|
 Sequência de escape|Mostra um exemplo de uso das sequências de escape, como \n e \t, por exemplo.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_constants)|[Arquivo](C%23/Sequência%20de%20escape.cs)|
 Soma de números entre 1 e 20 divisíveis por 3|Tutorial interativo sobre tomadas de decisão e *loops*.|[Site do tutorial](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/branches-and-loops)|[Arquivo](C%23/Soma%20de%20n%C3%BAmeros%20entre%201%20e%2020%20divis%C3%ADveis%20por%203.cs)|
 Switch|Um exemplo da estrutura de tomada de decisão switch..case.|[Site do tutorial](https://www.tutorialspoint.com/csharp/switch_statement_in_csharp.htm)|[Arquivo](C%23/Switch.cs)|
 Uso de constantes|Mostra um exemplo de uso de constantes.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_constants)|[Arquivo](C%23/Uso%20de%20constantes.cs)|
+Vetor como parâmetro de função|Mostra como usar vetores como parâmetros de métodos.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_passing_arrays_to_functions.htm)|[Arquivo](C%23/Vetor%20como%20parâmetro%20de%20função.cs)|
+Vetor de vetores|Mostra um exemplo de um vetor de vetores, que é basicamente um vetor multidimensional, mas que cada linha/coluna tem seu tamanho próprio.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_jagged_arrays.htm)|[Arquivo](C%23/Vetor%20de%20vetores.cs)|
+Vetores multidimensionais|Mostra um exemplo de uso de vetores multidimensionais, ou matrizes.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_multi_dimensional_arrays.htm)|[Arquivo](C%23/Vetores%20multidimensionais.cs)|
 While|Um exemplo do laço de repetição *while*.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_while_loop.htm)|[Arquivo](C%23/While.cs)|
 
 	
