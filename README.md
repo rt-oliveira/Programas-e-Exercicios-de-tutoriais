@@ -43,9 +43,11 @@ Abaixo estará a lista dos exercícios e programas feitos de tutoriais que estã
 
 Nome|Descrição|Site do Tutorial|Arquivo
 --|--|--|--
-Cálculo de área de círculo|Tutorial interativo sobre os números em C#.<br>Ensina o básico de manipulação com os números na linguagem.|[Site do tutorial](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/numbers-in-csharp)|[Arquivo](C%23/C%C3%A1lculo%20de%20%C3%A1rea%20de%20c%C3%ADrculo.cs)|
 Classe Array|Um exemplo de uso de alguns métodos da classe Array.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_array_class.htm)|[Arquivo](C%23/Classe%20Array.cs)|
 Coalescência de nullable|Mostra um exemplo do operador de coalescência de nullable, um operador que pode fazer uma variável de um tipo ser convertido para outro de tipo Nullable.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_nullables.htm)|[Arquivo](C%23/Coalescência%20de%20nullable.cs)|
+Comparação de strings|Um exemplo de como comparar strings.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_strings.htm)|[Arquivo](C%23/Comparação%20de%20strings.cs)|
+Criação de uma String|Mostra formas de criação de um objeto String.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_strings.htm)|[Arquivo](C%23/Criação%20de%20uma%20String.cs)|
+Cálculo de área de círculo|Tutorial interativo sobre os números em C#.<br>Ensina o básico de manipulação com os números na linguagem.|[Site do tutorial](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/numbers-in-csharp)|[Arquivo](C%23/C%C3%A1lculo%20de%20%C3%A1rea%20de%20c%C3%ADrculo.cs)|
 Exemplo de conversão de tipo explícita|Mostra um exemplo de conversão explícita entre tipos de dados.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_type_conversion.htm)|[Arquivo](C%23/Exemplo%20de%20conversão%20de%20tipo%20explícita.cs)|
 Exemplo de definição de variáveis|Mostra um exemplo de como definir variáveis em C#|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_variables.htm)|[Arquivo](C%23/Exemplo%20de%20definição%20de%20variáveis.cs)|
 Exemplo de operadores aritméticos|Mostra um exemplo de uso dos operadores aritméticos.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_arithmetic_operators.htm)|[Arquivo](C%23/Exemplo%20de%20operadores%20aritméticos.cs)|
@@ -58,6 +60,7 @@ Exemplo de verificação de tamanho de tipo de dado|Este exemplo mostra o uso da
 Função foreach|Exemplo de uso da função foreach, que serve para "passear" por todos os elementos de um vetor.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_arrays.htm)|[Arquivo](C%23/Função%20foreach.cs)|
 Hello World|Exemplo mais básico de todos.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_program_structure.htm)|[Arquivo](C%23/Hello%20World.cs)|
 If else|Mostra um exemplo de uso de uma cadeia de if..else if..else.|[Site do tutorial](https://www.tutorialspoint.com/csharp/if_else_statement_in_csharp.htm)|[Arquivo](C%23/If%20else.cs)|
+Junção de strings|Mostra como unir strings no C#.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_strings.htm)|[Arquivo](C%23/Junção%20de%20strings.cs)|
 Laço do..while|Um exemplo do laço de repetição *do..while*.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_do_while_loop.htm)|[Arquivo](C%23/Laço%20do..while.cs)|
 Laço for|Um exemplo do laço de repetição *for*.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_for_loop.htm)|[Arquivo](C%23/Laço%20for.cs)|
 Membro interno|Mostra um exemplo de membros internos de uma classe, que podem ser acessados dentro da namespace onde foram declarados, em qualquer classe/método.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_encapsulation.htm)|[Arquivo](C%23/Membro%20interno.cs)|
@@ -71,13 +74,14 @@ Primeiros 20 números de Fibonacci com listas|Tutorial interativo sobre as lista
 Quantidade indeterminada de argumentos|Mostra como definir e usar um método que possui uma quantidade indeterminada de argumentos.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_param_arrays.htm)|[Arquivo](C%23/Quantidade%20indeterminada%20de%20argumentos.cs)|
 Sequência de escape|Mostra um exemplo de uso das sequências de escape, como \n e \t, por exemplo.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_constants)|[Arquivo](C%23/Sequência%20de%20escape.cs)|
 Soma de números entre 1 e 20 divisíveis por 3|Tutorial interativo sobre tomadas de decisão e *loops*.|[Site do tutorial](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/branches-and-loops)|[Arquivo](C%23/Soma%20de%20n%C3%BAmeros%20entre%201%20e%2020%20divis%C3%ADveis%20por%203.cs)|
+Substrings|Um exemplo de como extrair substrings.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_strings.htm)|[Arquivo](C%23/Substrings.cs)|
 Switch|Um exemplo da estrutura de tomada de decisão switch..case.|[Site do tutorial](https://www.tutorialspoint.com/csharp/switch_statement_in_csharp.htm)|[Arquivo](C%23/Switch.cs)|
+Uma string contém outra|Mostra um exemplo de como testar se uma string contém outra.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_strings.htm)|[Arquivo](C%23/Uma%20string%20contém%20outra.cs)|
 Uso de constantes|Mostra um exemplo de uso de constantes.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_constants)|[Arquivo](C%23/Uso%20de%20constantes.cs)|
 Vetor como parâmetro de função|Mostra como usar vetores como parâmetros de métodos.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_passing_arrays_to_functions.htm)|[Arquivo](C%23/Vetor%20como%20parâmetro%20de%20função.cs)|
 Vetor de vetores|Mostra um exemplo de um vetor de vetores, que é basicamente um vetor multidimensional, mas que cada linha/coluna tem seu tamanho próprio.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_jagged_arrays.htm)|[Arquivo](C%23/Vetor%20de%20vetores.cs)|
 Vetores multidimensionais|Mostra um exemplo de uso de vetores multidimensionais, ou matrizes.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_multi_dimensional_arrays.htm)|[Arquivo](C%23/Vetores%20multidimensionais.cs)|
 While|Um exemplo do laço de repetição *while*.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_while_loop.htm)|[Arquivo](C%23/While.cs)|
-
 	
 ## Node.js
 
