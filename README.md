@@ -74,15 +74,17 @@ Primeiros 20 números de Fibonacci com listas|Tutorial interativo sobre as lista
 Quantidade indeterminada de argumentos|Mostra como definir e usar um método que possui uma quantidade indeterminada de argumentos.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_param_arrays.htm)|[Arquivo](C%23/Quantidade%20indeterminada%20de%20argumentos.cs)|
 Sequência de escape|Mostra um exemplo de uso das sequências de escape, como \n e \t, por exemplo.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_constants)|[Arquivo](C%23/Sequência%20de%20escape.cs)|
 Soma de números entre 1 e 20 divisíveis por 3|Tutorial interativo sobre tomadas de decisão e *loops*.|[Site do tutorial](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/branches-and-loops)|[Arquivo](C%23/Soma%20de%20n%C3%BAmeros%20entre%201%20e%2020%20divis%C3%ADveis%20por%203.cs)|
+Structs v2|Mostra um novo uso de structs, com métodos e instanciação.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_struct.htm)|[Arquivo](C%23/Structs%20v2.cs)|
 Substrings|Um exemplo de como extrair substrings.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_strings.htm)|[Arquivo](C%23/Substrings.cs)|
 Switch|Um exemplo da estrutura de tomada de decisão switch..case.|[Site do tutorial](https://www.tutorialspoint.com/csharp/switch_statement_in_csharp.htm)|[Arquivo](C%23/Switch.cs)|
 Uma string contém outra|Mostra um exemplo de como testar se uma string contém outra.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_strings.htm)|[Arquivo](C%23/Uma%20string%20contém%20outra.cs)|
+Uso básico de structs|Mostra um exemplo básico de structs.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_struct.htm)|[Arquivo](C%23/Uso%20básico%20de%20structs.cs)|
 Uso de constantes|Mostra um exemplo de uso de constantes.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_constants)|[Arquivo](C%23/Uso%20de%20constantes.cs)|
 Vetor como parâmetro de função|Mostra como usar vetores como parâmetros de métodos.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_passing_arrays_to_functions.htm)|[Arquivo](C%23/Vetor%20como%20parâmetro%20de%20função.cs)|
 Vetor de vetores|Mostra um exemplo de um vetor de vetores, que é basicamente um vetor multidimensional, mas que cada linha/coluna tem seu tamanho próprio.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_jagged_arrays.htm)|[Arquivo](C%23/Vetor%20de%20vetores.cs)|
 Vetores multidimensionais|Mostra um exemplo de uso de vetores multidimensionais, ou matrizes.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_multi_dimensional_arrays.htm)|[Arquivo](C%23/Vetores%20multidimensionais.cs)|
 While|Um exemplo do laço de repetição *while*.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_while_loop.htm)|[Arquivo](C%23/While.cs)|
-	
+
 ## Node.js
 
 Nome|Descrição|Site do Tutorial|Arquivo|
