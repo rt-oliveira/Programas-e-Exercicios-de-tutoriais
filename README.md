@@ -123,4 +123,4 @@ Troca do diretório atual de trabalho|Mostra como trocar o diretório atual de t
 
 Nome|Descrição|Link do Projeto
 --|--|--
-Tindev|Projeto realizado durante a Semana OmniStack 8.0, da Rocketseat.<br>É uma versão do Tinder, voltado para desenvolvedores|[Link do projeto](Projetos/Tindev)
+Tindev|Projeto realizado durante a Semana OmniStack 8.0, da Rocketseat.<br>É uma versão do Tinder, voltado para desenvolvedores|[Link do projeto](https://github.com/rt-oliveira/Tindev/tree/1643c059509512dbc50093469fce2c470a95006a)
