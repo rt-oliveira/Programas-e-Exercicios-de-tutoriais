@@ -20,6 +20,9 @@ Aqui estarão alguns programas e exercícios feitos de sites com tutoriais de li
     <td colspan=2>TutorialsPoint</td>
     <td>C#</td>
   </tr>
+  <tr>
+	<td colspan=2>Rocketseat</td>
+	<td>Node.JS, ReactJS e React Native</td>
 </table>
 
 Este repositório, de certa forma, servirá como um acompanhamento de minha familiadade/experiência com as linguagens e tecnologias.
@@ -37,6 +40,7 @@ Abaixo estará a lista dos exercícios e programas feitos de tutoriais que estã
 - Conteúdos
 	- [C#](#c-sharp-c)
 	- [Node.js](#nodejs)
+	- [Projetos](#projetos)
 
 
 ## C-Sharp (C#)
@@ -114,3 +118,9 @@ Servidor TCP|Exemplo de como criar um servidor TCP.|[Site do tutorial](http://ww
 Teste de existência de arquivo|Mostra como testar se um arquivo existe em um determinado caminho, ou não.|[Site do tutorial](http://www.youtube.com/watch?v=xiXuOWYxAok)|[Arquivo](Node.js/Teste%20de%20existência%20de%20arquivo.js)|
 Tratamento de erro com o objeto process|Mostra um exemplo de tratar erros no Node.js usando o objeto *process*.|[Site do tutorial](http://www.youtube.com/watch?v=VSz4aWpI15s)|[Arquivo](Node.js/Tratamento%20de%20erro%20com%20o%20objeto%20process.js)|
 Troca do diretório atual de trabalho|Mostra como trocar o diretório atual de trabalho de um programa Node.js.|[Site do tutorial](http://www.youtube.com/watch?v=xiXuOWYxAok)|[Arquivo](Node.js/Troca%20do%20diretório%20atual%20de%20trabalho.js)|
+
+## Projetos
+
+Nome|Descrição|Link do Projeto
+--|--|--
+Tindev|Projeto realizado durante a Semana OmniStack 8.0, da Rocketseat.<br>É uma versão do Tinder, voltado para desenvolvedores|[Link do projeto](Projetos/Tindev)
