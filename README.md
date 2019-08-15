@@ -17,16 +17,17 @@ Aqui estarão alguns programas e exercícios feitos de sites com tutoriais de li
     <td>Node.js</td>
   </tr>
   <tr>
-	<td>Canal Flipix</td>
-	<td>ReactJS</td>
+		<td>Canal Flipix</td>
+		<td>ReactJS</td>
   </tr>
   <tr>
     <td colspan=2>TutorialsPoint</td>
     <td>C#</td>
   </tr>
   <tr>
-	<td colspan=2>Rocketseat</td>
-	<td>Node.JS, ReactJS e React Native</td>
+		<td colspan=2>Rocketseat</td>
+		<td>Node.js, ReactJS e React Native</td>
+	</tr>
 </table>
 
 Este repositório, de certa forma, servirá como um acompanhamento de minha familiadade/experiência com as linguagens e tecnologias.
