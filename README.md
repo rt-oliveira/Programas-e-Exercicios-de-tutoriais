@@ -12,9 +12,13 @@ Aqui estarão alguns programas e exercícios feitos de sites com tutoriais de li
     <td>C#</td>
   </tr>
   <tr>
-    <td>Youtube</td>
+    <td rowspan=2>Youtube</td>
     <td>Canal TutorialsPoint</td>
     <td>Node.js</td>
+  </tr>
+  <tr>
+	<td>Canal Flipix</td>
+	<td>ReactJS</td>
   </tr>
   <tr>
     <td colspan=2>TutorialsPoint</td>
@@ -130,4 +134,5 @@ Troca do diretório atual de trabalho|Mostra como trocar o diretório atual de t
 
 Nome|Descrição|Link do Projeto
 --|--|--
+React Olá Mundo|Um projeto em ReactJS, com o simples exemplo do 'Olá mundo'.|[Link do projeto](https://github.com/rt-oliveira/react-series/tree/49603e22806f60cc9dd8dc26999322c048573176)
 Tindev|Projeto realizado durante a Semana OmniStack 8.0, da Rocketseat (em Agosto/2019).<br>É uma versão do Tinder, voltado para desenvolvedores|[Link do projeto](https://github.com/rt-oliveira/Tindev/tree/1643c059509512dbc50093469fce2c470a95006a)
