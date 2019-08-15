@@ -135,7 +135,7 @@ Troca do diretório atual de trabalho|Mostra como trocar o diretório atual de t
 
 ## Projetos
 
-Nome|Descrição|Link do Projeto
---|--|--
-React Olá Mundo|Um projeto em ReactJS, com o simples exemplo do 'Olá mundo'.|[Link do projeto](https://github.com/rt-oliveira/react-series/tree/49603e22806f60cc9dd8dc26999322c048573176)
-Tindev|Projeto realizado durante a Semana OmniStack 8.0, da Rocketseat (em Agosto/2019).<br>É uma versão do Tinder, voltado para desenvolvedores|[Link do projeto](https://github.com/rt-oliveira/Tindev/tree/1643c059509512dbc50093469fce2c470a95006a)
+Nome|Descrição|Linguagens e Tecnologias usadas|Link do Projeto
+--|--|--|--
+React Olá Mundo|Um projeto em ReactJS, com o simples exemplo do 'Olá mundo'.|ReactJS|[Link do projeto](https://github.com/rt-oliveira/react-series/tree/49603e22806f60cc9dd8dc26999322c048573176)
+Tindev|Projeto realizado durante a Semana OmniStack 8.0, da Rocketseat (em Agosto/2019).<br>É uma versão do Tinder, voltado para desenvolvedores|Node.js, ReactJS e React Native|[Link do projeto](https://github.com/rt-oliveira/Tindev/tree/1643c059509512dbc50093469fce2c470a95006a)
