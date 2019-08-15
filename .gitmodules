@@ -1,3 +1,7 @@
 [submodule "Projetos/Tindev"]
 	path = Projetos/Tindev
 	url = https://github.com/rt-oliveira/Tindev
+[submodule "Projetos/ReactOlaMundo"]
+	path = Projetos/ReactOlaMundo
+	url = git@github.com:rt-oliveira/react-series.git
+	branch = aula3-ola-mundo
