@@ -11,6 +11,7 @@
 - [Herança](#heran%C3%A7a)
 - [Matrizes e Vetores](#matrizes-e-vetores)
 - [Operadores](#operadores)
+- [Polimorfismo](#polimorfismo)
 - [Strings](#strings)
 - [Structs](#structs)
 - [Tomada de Decisão](#tomada-de-decis%C3%A3o)
@@ -103,6 +104,14 @@ Exemplo de operadores lógicos|Mostra um exemplo de uso dos operadores lógicos.
 Exemplo de operadores relacionais|Mostra um exemplo de uso dos operadores relacionais.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_relational_operators.htm)|[Arquivo](%23/Exemplo%20de%20operadores%20relacionais.cs)|
 Exemplo de outros operadores|Mostra outros operadores que existem no C#.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_misc_operators.htm)|[Arquivo](C%23/Exemplo%20de%20outros%20operadores.cs)|
 Precedência de operadores|Mostra como a ordem dos parênteses ou dos operadores em uma contra pode fazer diferença no resultado, em um programa C#.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_operators_precedence.htm)|[Arquivo](C%23/Precedência%20de%20operadores.cs)|
+
+## Polimorfismo
+
+Nome|Descrição|Site do Tutorial|Arquivo
+--|--|--|--
+Classe abstrata|Um exemplo de como fazer classes abstratas.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm)|[Arquivo](C%23/Classe%20abstrata.cs)|
+Funções virtuais|Um exemplo de como fazer funções virtuais, que são funções da classe pai que devem ser reimplementadas na(s) classe(s) filha(s).|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm)|[Arquivo](C%23/Funções%20virtuais.cs)|
+Sobrecarga de método|Um exemplo de como fazer N métodos diferentes, mesmo todos eles tendo o nome igual.|[Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm)|[Arquivo](C%23/Sobrecarga%20de%20método.cs)|
 
 ## Strings
 
