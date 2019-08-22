@@ -5,3 +5,7 @@
 	path = Projetos/ReactOlaMundo
 	url = git@github.com:rt-oliveira/react-series.git
 	branch = aula3-ola-mundo
+[submodule "Projetos/ReactContador"]
+	path = Projetos/ReactContador
+	url = git@github.com:rt-oliveira/react-series.git
+	branch = aula4-criar-contador
