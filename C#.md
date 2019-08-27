@@ -113,6 +113,13 @@
 | Funções virtuais     | Um exemplo de como fazer funções virtuais, que são funções da classe pai que devem ser reimplementadas na(s) classe(s) filha(s). | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm) | [Arquivo](C%23/Funções%20virtuais.cs)       |
 | Sobrecarga de método | Um exemplo de como fazer N métodos diferentes, mesmo todos eles tendo o nome igual.                                              | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm) | [Arquivo](C%23/Sobrecarga%20de%20método.cs) |
 
+## Sobrecarga de operadores
+
+| Nome                                       | Descrição                                                                                                    | Site do Tutorial                                                                          | Arquivo                                                                 |
+|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Exemplo completo de sobrecarga de operador | Um exemplo que contém várias redefinições de operadores para tipos de dados criados.                         | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_operator_overloading.htm) | [Arquivo](C%23/Exemplo%20completo%20de%20sobrecarga%20de%20operador.cs) |
+| Exemplo simples de sobrecarga de operador  | Mostra um simples exemplo de como definir um operador matemático para um tipo de dado definido pelo usuário. | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_operator_overloading.htm) | [Arquivo](C%23/Exemplo%20simples%20de%20sobrecarga%20de%20operador.cs)  |
+
 ## Strings
 
 | Nome                    | Descrição                                                    | Site do Tutorial                                                             | Arquivo
