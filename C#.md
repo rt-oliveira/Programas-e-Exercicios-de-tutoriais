@@ -12,6 +12,7 @@
 - [Matrizes e Vetores](#matrizes-e-vetores)
 - [Operadores](#operadores)
 - [Polimorfismo](#polimorfismo)
+- [Sobrecarga de operadores](#sobrecarga-de-operadores)
 - [Strings](#strings)
 - [Structs](#structs)
 - [Tomada de Decisão](#tomada-de-decis%C3%A3o)
