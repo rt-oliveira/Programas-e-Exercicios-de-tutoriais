@@ -9,3 +9,7 @@
 	path = Projetos/ReactContador
 	url = git@github.com:rt-oliveira/react-series.git
 	branch = aula4-criar-contador
+[submodule "Projetos/ReactPlacar"]
+	path = Projetos/ReactPlacar
+	url = git@github.com:rt-oliveira/react-series.git
+	branch = aula8-props
