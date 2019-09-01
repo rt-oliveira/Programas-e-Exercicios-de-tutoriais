@@ -8,7 +8,7 @@ Aqui estarão alguns programas e exercícios feitos de sites com tutoriais de li
     <th>Linguagens e Tecnologias dos tutoriais</th>
   </tr>
 	<tr>
-		<td>Fundação Bradesco</td>
+		<td colspan=2>Fundação Bradesco</td>
 		<td>C#, WinForms</td>
 	</tr>
   <tr>
