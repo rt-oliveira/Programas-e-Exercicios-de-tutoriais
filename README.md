@@ -7,6 +7,10 @@ Aqui estarão alguns programas e exercícios feitos de sites com tutoriais de li
     <th colspan=2>Site</th>
     <th>Linguagens e Tecnologias dos tutoriais</th>
   </tr>
+	<tr>
+		<td>Fundação Bradesco</td>
+		<td>C#, WinForms</td>
+	</tr>
   <tr>
     <td colspan=2>Site de documentação da Microsoft (Microsoft Docs)</td>
     <td>C#</td>
@@ -81,9 +85,10 @@ Abaixo estará a lista dos exercícios e programas feitos de tutoriais que estã
 
 ## Projetos
 
-| Nome            | Descrição                                                                                                                                 | Linguagens e Tecnologias usadas | Link do Projeto                                                                                              |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------|
-| React Contador  | Um projeto em ReactJS, que cria um simples contador, que pode incrementar e decrementar.                                                  | ReactJS                         | [Link do projeto](https://github.com/rt-oliveira/react-series/tree/a5d5c6f427052ae6ebdb566a2ecd8c24e2555fa8) |
-| React Olá Mundo | Um projeto em ReactJS, com o simples exemplo do 'Olá mundo'.                                                                              | ReactJS                         | [Link do projeto](https://github.com/rt-oliveira/react-series/tree/49603e22806f60cc9dd8dc26999322c048573176) |
-| React Placar    | Um projeto em ReactJS. É um simples placar para marcar gols em um jogo de futebol.                                                        | ReactJS                         | [Link do Projeto](https://github.com/rt-oliveira/react-series/tree/0efbc30200490c65aa3bf62056df19a41006be7f) |
-| Tindev          | Projeto realizado durante a Semana OmniStack 8.0, da Rocketseat (em Agosto/2019).<br>É uma versão do Tinder, voltado para desenvolvedores | Node.js, ReactJS e React Native | [Link do projeto](https://github.com/rt-oliveira/Tindev/tree/1643c059509512dbc50093469fce2c470a95006a)       |
+| Nome               | Descrição                                                                                                                                 | Linguagens e Tecnologias usadas | Link do Projeto                                                                                              |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Calculadora Básica | Uma calculadora básica que foi desenvolvida durante o curso Linguagem de Programação C# - Básico, da Fundação Bradesco.                   | C#, WinForms                    | [Link do Projeto](https://github.com/rt-oliveira/Calculadora-Basica)                                         |
+| React Contador     | Um projeto em ReactJS, que cria um simples contador, que pode incrementar e decrementar.                                                  | ReactJS                         | [Link do projeto](https://github.com/rt-oliveira/react-series/tree/a5d5c6f427052ae6ebdb566a2ecd8c24e2555fa8) |
+| React Olá Mundo    | Um projeto em ReactJS, com o simples exemplo do 'Olá mundo'.                                                                              | ReactJS                         | [Link do projeto](https://github.com/rt-oliveira/react-series/tree/49603e22806f60cc9dd8dc26999322c048573176) |
+| React Placar       | Um projeto em ReactJS. É um simples placar para marcar gols em um jogo de futebol.                                                        | ReactJS                         | [Link do Projeto](https://github.com/rt-oliveira/react-series/tree/0efbc30200490c65aa3bf62056df19a41006be7f) |
+| Tindev             | Projeto realizado durante a Semana OmniStack 8.0, da Rocketseat (em Agosto/2019).<br>É uma versão do Tinder, voltado para desenvolvedores | Node.js, ReactJS e React Native | [Link do projeto](https://github.com/rt-oliveira/Tindev/tree/1643c059509512dbc50093469fce2c470a95006a)       |
