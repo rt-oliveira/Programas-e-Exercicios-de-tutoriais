@@ -9,6 +9,7 @@
 - [Encapsulamento](#encapsulamento)
 - [Funções](#fun%C3%A7%C3%B5es)
 - [Herança](#heran%C3%A7a)
+- [Interfaces](#interfaces)
 - [Matrizes e Vetores](#matrizes-e-vetores)
 - [Operadores](#operadores)
 - [Polimorfismo](#polimorfismo)
@@ -81,6 +82,12 @@
 | Exemplo de herança                     | Mostra um exemplo de como fazer herança no C#.                                                      | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_inheritance.htm) | [Arquivo](C%23/Exemplo%20de%20herança.cs)                               |
 | Herança - Uso de métodos da classe pai | Exemplo de como usar métodos da classe pai na classe filha, sendo eles métodos construtores ou não. | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_inheritance.htm) | [Arquivo](C%23/Herança%20-%20Uso%20de%20métodos%20da%20classe%20pai.cs) |
 | Simulação de múltipla herança          | O C# não suporta múltipla herança. Este exemplo mostra como simular uma herança múltipla no C#.     | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_inheritance.htm) | [Arquivo](C%23/Simulação%20de%20múltipla%20herança.cs)                  |
+
+## Interfaces
+
+| Site       | Descrição                                 | Site do Tutorial                                                                | Arquivo                       |
+|------------|-------------------------------------------|---------------------------------------------------------------------------------|-------------------------------|
+| Interfaces | Um exemplo simples de uso das interfaces. | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_interfaces.htm) | [Arquivo](C%23/Interfaces.cs) |
 
 ## Matrizes e Vetores
 
