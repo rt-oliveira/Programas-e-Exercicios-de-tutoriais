@@ -11,6 +11,7 @@
 - [Herança](#heran%C3%A7a)
 - [Interfaces](#interfaces)
 - [Matrizes e Vetores](#matrizes-e-vetores)
+- [Namespaces](http://address)
 - [Operadores](#operadores)
 - [Polimorfismo](#polimorfismo)
 - [Sobrecarga de operadores](#sobrecarga-de-operadores)
@@ -98,6 +99,14 @@
 | Vetor como parâmetro de função | Mostra como usar vetores como parâmetros de métodos.                                                                                     | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_passing_arrays_to_functions.htm) | [Arquivo](C%23/Vetor%20como%20parâmetro%20de%20função.cs) |
 | Vetor de vetores               | Mostra um exemplo de um vetor de vetores.<br>É basicamente um vetor multidimensional, mas que cada linha/coluna tem seu tamanho próprio. | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_jagged_arrays.htm)               | [Arquivo](C%23/Vetor%20de%20vetores.cs)                   |
 | Vetores multidimensionais      | Mostra um exemplo de uso de vetores multidimensionais, ou matrizes.                                                                      | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_multi_dimensional_arrays.htm)    | [Arquivo](C%23/Vetores%20multidimensionais.cs)            |
+
+## Namespaces
+
+| Nome                 | Descrição                                                                                          | Site do Tutorial                                                                | Arquivo                                   |
+|----------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------|
+| Namespaces aninhados | Exemplo de como colocar namespaces aninhados, isto é, um dentro de outro.                          | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_namespaces.htm) | [Arquivo](C%23/Namespaces%20aninhados.cs) |
+| Namespaces           | Exemplo simples de criação de namespaces.                                                          | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_namespaces.htm) | [Arquivo](C%23/Namespaces.cs)             |
+| Uso de using         | Exemplo de como "importar" namespaces para um programa C#, com o uso da palavra reservada 'using'. | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_namespaces.htm) | [Arquivo](C%23/Uso%20de%20using.cs)       |
 
 ## Operadores
 
