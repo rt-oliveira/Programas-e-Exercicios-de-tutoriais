@@ -14,6 +14,7 @@
 - [Namespaces](#namespaces)
 - [Operadores](#operadores)
 - [Polimorfismo](#polimorfismo)
+- [Pré-Processamento](#pr%C3%A9-processamento)
 - [Sobrecarga de operadores](#sobrecarga-de-operadores)
 - [Strings](#strings)
 - [Structs](#structs)
@@ -129,6 +130,13 @@
 | Classe abstrata      | Um exemplo de como fazer classes abstratas.                                                                                      | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm) | [Arquivo](C%23/Classe%20abstrata.cs)        |
 | Funções virtuais     | Um exemplo de como fazer funções virtuais, que são funções da classe pai que devem ser reimplementadas na(s) classe(s) filha(s). | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm) | [Arquivo](C%23/Funções%20virtuais.cs)       |
 | Sobrecarga de método | Um exemplo de como fazer N métodos diferentes, mesmo todos eles tendo o nome igual.                                              | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm) | [Arquivo](C%23/Sobrecarga%20de%20método.cs) |
+
+## Pré-Processamento
+
+| Nome                    | Descrição                                                                                         | Site do Tutorial                                                                             | Arquivo                                        |
+|-------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------|
+| Diretivas Condicionais  | Um exemplo de uso de diretivas condicionais de pré-processamento.                                 | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_preprocessor_directives.htm) | [Arquivo](C%23/Diretivas%20Condicionais.cs)    |
+| Pré-processador #define | Um exemplo de uso da diretiva de pré-processamento #define, para definir algo dentro do programa. | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_preprocessor_directives.htm) | [Arquivo](C%23/Pré-processador%20%23define.cs) |
 
 ## Sobrecarga de operadores
 
