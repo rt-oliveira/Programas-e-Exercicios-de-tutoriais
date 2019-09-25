@@ -21,6 +21,8 @@
 - [Strings](#strings)
 - [Structs](#structs)
 - [Tomada de Decisão](#tomada-de-decis%C3%A3o)
+- [Tratamento de Exceções](#tratamento-de-exceções)
+- [Variáveis](#variáveis)
 - [Miscelânea](#miscel%C3%A2nea)
 
 ## Classes
@@ -179,6 +181,13 @@
 | If else                                       | Mostra um exemplo de uso de uma cadeia de if..else if..else. | [Site do tutorial](https://www.tutorialspoint.com/csharp/if_else_statement_in_csharp.htm)                       | [Arquivo](C%23/If%20else.cs)                                                                 |
 | Soma de números entre 1 e 20 divisíveis por 3 | Tutorial interativo sobre tomadas de decisão e *loops*.      | [Site do tutorial](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/intro-to-csharp/branches-and-loops) | [Arquivo](C%23/Soma%20de%20n%C3%BAmeros%20entre%201%20e%2020%20divis%C3%ADveis%20por%203.cs) |
 | Switch                                        | Um exemplo da estrutura de tomada de decisão switch..case.   | [Site do tutorial](https://www.tutorialspoint.com/csharp/switch_statement_in_csharp.htm)                        | [Arquivo](C%23/Switch.cs)                                                                    |
+
+## Tratamento de Exceções
+
+| Nome             | Descrição                                                                    | Site do Tutorial                                                                        | Arquivo                               |
+|------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------|
+| Exceção criada   | Um exemplo mostrando como criar uma exceção, como lançá-la, e como tratá-la. | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_exception_handling.htm) | [Arquivo](C%23/Exceção%20criada.cs)   |
+| Tratando exceção | Um exemplo de código demonstrando o tratamento de exceções.                  | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_exception_handling.htm) | [Arquivo](C%23/Tratando%20exceção.cs) |
 
 ## Variáveis
 
