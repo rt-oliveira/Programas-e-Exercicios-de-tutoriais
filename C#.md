@@ -8,7 +8,7 @@
 - [Enum](#enum)
 - [Estruturas de dados](#estruturas-de-dados)
 - [Estruturas de repetição](#estruturas-de-repetição)
-- [Expressões Regulares](#express%C3%A3es-regulares)
+- [Expressões Regulares](#express%C3%B5es-regulares)
 - [Funções](#fun%C3%A7%C3%B5es)
 - [Herança](#heran%C3%A7a)
 - [Interfaces](#interfaces)
