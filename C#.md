@@ -2,6 +2,7 @@
 
 ## Exemplos em C# de tutoriais
 
+- [Arquivos](#arquivos)
 - [Classes](#classes)
 - [Constantes](#constantes)
 - [Encapsulamento](#encapsulamento)
@@ -24,6 +25,16 @@
 - [Tratamento de Exceções](#tratamento-de-exceções)
 - [Variáveis](#variáveis)
 - [Miscelânea](#miscel%C3%A2nea)
+
+## Arquivos
+
+| Nome                                | Descrição                                                                          | Site do Tutorial                                                                         | Arquivo                                                          |
+|-------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Arquivos de um diretório            | Um exemplos de como ler os arquivos contidos em um diretório.                      | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_windows_file_system.htm) | [Arquivo](C%23/Arquivos%20de%20um%20diretório.cs)                |
+| Escrita com StreamWriter            | Um exemplo que demonstra como escrever em um arquivo usando a classe StreamWriter. | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_text_files.htm)          | [Arquivo](C%23/Escrita%20com%20StreamWriter.cs)                  |
+| I-O em arquivo                      | Um exemplo básico de leitura/escrita em um arquivo.                                | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_file_io.htm)             | [Arquivo](C%23/I-O%20em%20arquivo.cs)                            |
+| Leitura com StreamReader            | Um exemplo que demonstra como ler um arquivo usando a classe StreamReader.         | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_text_files.htm)          | [Arquivo](C%23/Leitura%20com%20StreamReader.cs)                  |
+| Leitura e Escrita de dados binários | Um exemplo que mostra como ler/escrever dados binários em um arquivo.              | [Site do tutorial](https://www.tutorialspoint.com/csharp/csharp_binary_files.htm)        | [Arquivo](C%23/Leitura%20e%20Escrita%20de%20dados%20binários.cs) |
 
 ## Classes
 
