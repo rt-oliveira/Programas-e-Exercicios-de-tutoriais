@@ -25,6 +25,18 @@ namespace Banco_Dados
             try
             {
                 con.Open();
+                //Criando Sql Command, Selecionando todos os dados na tb_clientes;
+                SqlCommand Cmm = new SqlCommand();
+                Cmm.CommandText = "SELECT * FROM tb_clientes";
+                Cmm.CommandType = CommandType.Text;
+                Cmm.Connection = con;
+                SqlDataReader DR;
+                DR = Cmm.ExecuteReader();
+                /*Carregar dados do DataGrid */
+                DataTable dt = new DataTable();
+                dt.Load(DR);
+                dataGridView1.DataSource = dt;
+                dataGridView1.Refresh();
                 con.Close();
                 MessageBox.Show("A conexão foi realizada com Sucesso!");
             }
