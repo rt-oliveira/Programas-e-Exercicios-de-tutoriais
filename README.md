@@ -26,7 +26,7 @@ Aqui estarão alguns programas e exercícios feitos de sites com tutoriais de li
   </tr>
   <tr>
     <td colspan=2>TutorialsPoint</td>
-    <td>C#</td>
+    <td>C#, T-SQL</td>
   </tr>
   <tr>
 		<td colspan=2>Rocketseat</td>
@@ -50,6 +50,7 @@ Abaixo estará a lista dos exercícios e programas feitos de tutoriais que estã
 	- [C#](#c-sharp-c)
 	- [Node.js](#nodejs)
 	- [Projetos](#projetos)
+  - [T-SQL](#t-sql)
 
 
 ## [C-Sharp (C#)](C%23.md)
@@ -96,3 +97,5 @@ Abaixo estará a lista dos exercícios e programas feitos de tutoriais que estã
 | Splash Screen      | Um projeto de WinForms para demonstrar o Splash Screen.                                                                                   | .NET (WinForms), C#             | [Link do Projeto](Projetos/Splash_Screen)                                                                    |
 | Switch Case        | Um projeto exemplo, que contém duas interfaces gráficas feitas usando WinForms, para demonstrar o uso da estrutura Switch..case no C#.    | .NET (WinForms), C#             | [Link do Projeto](Projetos/Switch_case)                                                                      |
 | Tindev             | Projeto realizado durante a Semana OmniStack 8.0, da Rocketseat (em Agosto/2019).<br>É uma versão do Tinder, voltado para desenvolvedores | Node.js, ReactJS e React Native | [Link do projeto](https://github.com/rt-oliveira/Tindev/tree/1643c059509512dbc50093469fce2c470a95006a)       |
+
+## [T-SQL](T-SQL.md)
