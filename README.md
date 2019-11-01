@@ -9,7 +9,7 @@ Aqui estarão alguns programas e exercícios feitos de sites com tutoriais de li
   </tr>
 	<tr>
 		<td colspan=2>Fundação Bradesco</td>
-		<td>.NET (WinForms), C#, SQL Server</td>
+		<td>.NET (WinForms), C#, SQL, SQL Server</td>
 	</tr>
   <tr>
     <td colspan=2>Site de documentação da Microsoft (Microsoft Docs)</td>
