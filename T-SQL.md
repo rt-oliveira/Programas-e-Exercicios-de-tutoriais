@@ -2,6 +2,8 @@
 
 ## Exemplos em T-SQL de tutoriais
 
+- [Sub-consultas](#sub-consultas)
+
 | Nome                                  | Descrição                                                                                                                   | Site do Tutorial                                                                    | Arquivo                                                              |
 |:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|:---------------------------------------------------------------------|
 | Agrupamento de dados                  | Um exemplo de como usar a cláusula GROUP BY para agrupar dados.                                                             | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_group_by_clause.htm)  | [Arquivo](T-SQL/Agrupamento%20de%20dados.sql)                        |
@@ -16,3 +18,12 @@
 | União de tabelas                      | Mostra como fazer união de tabelas, seja por simples cruzamento delas ou usando a cláusula JOIN.                            | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_joining_tables.htm)   | [Arquivo](T-SQL/União%20de%20tabelas.sql)                            |
 | Uso da cláusula LIKE                  | Mostra um exemplo de como usar a cláusula LIKE.                                                                             | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_like_clause.htm)      | [Arquivo](T-SQL/Uso%20da%20cláusula%20LIKE.sql)                      |
 | Uso da cláusula WHERE                 | Mostra exemplos de como usar a cláusula WHERE para filtrar registros em um SELECT.                                          | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_where_clause.htm)     | [Arquivo](T-SQL/Uso%20da%20cláusula%20WHERE.sql)                     |
+
+## Sub-consultas
+
+| Nome                       | Descrição                                                   | Site do Tutorial                                                               | Arquivo                                                 |
+|:---------------------------|:------------------------------------------------------------|:-------------------------------------------------------------------------------|:--------------------------------------------------------|
+| SELECT dentro de um DELETE | Um exemplo de como usar sub-consultas no comando DELETE.    | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_sub_queries.htm) | [Arquivo](T-SQL/SELECT%20dentro%20de%20um%20DELETE.sql) |
+| SELECT dentro de um INSERT | Um exemplo de como usar sub-consultas em um comando INSERT. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_sub_queries.htm) | [Arquivo](T-SQL/SELECT%20dentro%20de%20um%20INSERT.sql) |
+| SELECT dentro de um SELECT | Um exemplo de como fazer sub-consulta no comando SELECT.    | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_sub_queries.htm) | [Arquivo](T-SQL/SELECT%20dentro%20de%20um%20SELECT.sql) |
+| SELECT dentro de um UPDATE | Um exemplo de como usar sub-consultas em um comando UPDATE. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_sub_queries.htm) | [Arquivo](T-SQL/SELECT%20dentro%20de%20um%20UPDATE.sql) |
