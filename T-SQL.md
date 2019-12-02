@@ -3,6 +3,7 @@
 ## Exemplos em T-SQL de tutoriais
 
 - [Sub-consultas](#sub-consultas)
+- [Transações](#transa%C3%A7%C3%B5es)
 
 | Nome                                  | Descrição                                                                                                                   | Site do Tutorial                                                                     | Arquivo                                                              |
 |:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|:---------------------------------------------------------------------|
@@ -28,3 +29,11 @@
 | SELECT dentro de um INSERT | Um exemplo de como usar sub-consultas em um comando INSERT. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_sub_queries.htm) | [Arquivo](T-SQL/SELECT%20dentro%20de%20um%20INSERT.sql) |
 | SELECT dentro de um SELECT | Um exemplo de como fazer sub-consulta no comando SELECT.    | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_sub_queries.htm) | [Arquivo](T-SQL/SELECT%20dentro%20de%20um%20SELECT.sql) |
 | SELECT dentro de um UPDATE | Um exemplo de como usar sub-consultas em um comando UPDATE. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_sub_queries.htm) | [Arquivo](T-SQL/SELECT%20dentro%20de%20um%20UPDATE.sql) |
+
+## Transações
+
+| Nome                      | Descrição                                            | Site do Tutorial                                                                | Arquivo                                            |
+|:--------------------------|:-----------------------------------------------------|:--------------------------------------------------------------------------------|:---------------------------------------------------|
+| Alterações desfeitas      | Um exemplo de uso do comando ROLLBACK em transações. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_transactions.htm) | [Arquivo](T-SQL/Alterações%20desfeitas.sql)        |
+| Comando SAVE              | Um exemplo de uso do comando SAVE em transações.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_transactions.htm) | [Arquivo](T-SQL/Comando%20SAVE.sql)                |
+| Confirmação de alterações | Um exemplo de uso do comando COMMIT em transações.   | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_transactions.htm) | [Arquivo](T-SQL/Confirmação%20de%20alterações.sql) |
