@@ -2,9 +2,9 @@
 
 ## Exemplos em SQL de tutoriais
 
-- [Funções](#fun%C3%A7%C3%B5es)
+- [Funções em registros](#fun%C3%A7%C3%B5es-em-registros)
 
-## Funções
+## Funções em registros
 
 | Nome         | Descrição                                                                 | Site do Tutorial                                                              | Arquivo                           |
 |--------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------|
