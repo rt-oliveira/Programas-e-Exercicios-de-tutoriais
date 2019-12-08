@@ -9,3 +9,4 @@
 | Nome         | Descrição                                                                 | Site do Tutorial                                                              | Arquivo                           |
 |--------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------|
 | Função COUNT | Um exemplo de uso da função COUNT, para contar a quantidade de registros. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-count-function.htm) | [Arquivo](SQL/Função%20COUNT.sql) |
+| Função MAX   | Mostra exemplos da função MAX, para mostrar o maior valor de um campo.    | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-max-function.htm)   | [Arquivo](SQL/Função%20MAX.sql)   |
