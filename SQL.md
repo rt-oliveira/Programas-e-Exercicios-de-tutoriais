@@ -17,6 +17,7 @@
 
 ## Funções Numéricas
 
-| Nome        | Descrição                                                           | Site do Tutorial                                                             | Arquivo                          |
-|-------------|---------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------|
-| Função SQRT | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm) | [Arquivo](SQL/Função%20SQRT.sql) |
+| Nome        | Descrição                                                             | Site do Tutorial                                                             | Arquivo                          |
+|-------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------|
+| Função RAND | Mostra exemplos de uso da função RAND, para gerar números aleatórios. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-rand-function.htm) | [Arquivo](SQL/Função%20RAND.sql) |
+| Função SQRT | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada.   | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm) | [Arquivo](SQL/Função%20SQRT.sql) |
