@@ -4,6 +4,7 @@
 
 - [Funções em registros](#fun%C3%A7%C3%B5es-em-registros)
 - [Funções numéricas](#fun%C3%A7%C3%B5es-num%C3%A9ricas)
+- [Funções com strings](#fun%C3%A7%C3%B5es-com-strings)
 
 ## Funções em registros
 
@@ -21,3 +22,9 @@
 |-------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------|
 | Função RAND | Mostra exemplos de uso da função RAND, para gerar números aleatórios. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-rand-function.htm) | [Arquivo](SQL/Função%20RAND.sql) |
 | Função SQRT | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada.   | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm) | [Arquivo](SQL/Função%20SQRT.sql) |
+
+## Funções com Strings
+
+| Nome          | Descrição                                                       | Site do Tutorial                                                               | Arquivo                            |
+|---------------|-----------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------|
+| Função CONCAT | Mostra exemplos da função CONCAT, para concatenação de strings. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-concat-function.htm) | [Arquivo](SQL/Função%20CONCAT.sql) |
