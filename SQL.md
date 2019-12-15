@@ -22,6 +22,7 @@
 |-------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------|
 | Função ABS  | Mostra exemplos da função ABS, que retorna o módulo de um número.     | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_abs)  | [Arquivo](SQL/Função%20ABS.sql)  |
 | Função ACOS | Mostra um exemplo da função ACOS, que retorna o arco cosseno.         | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_acos) | [Arquivo](SQL/Função%20ACOS.sql) |
+| Função ASIN | Mostra um exemplo da função ASIN, que retorna o arco seno.            | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_asin) | [Arquivo](SQL/Função%20ASIN.sql) |
 | Função RAND | Mostra exemplos de uso da função RAND, para gerar números aleatórios. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-rand-function.htm)                   | [Arquivo](SQL/Função%20RAND.sql) |
 | Função SQRT | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada.   | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm)                   | [Arquivo](SQL/Função%20SQRT.sql) |
 
