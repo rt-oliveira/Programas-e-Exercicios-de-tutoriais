@@ -2,6 +2,7 @@
 
 ## Exemplos em T-SQL de tutoriais
 
+- [Funções](#fun%C3%A7%C3%B5es)
 - [Sub-consultas](#sub-consultas)
 - [Transações](#transa%C3%A7%C3%B5es)
 
@@ -21,6 +22,12 @@
 | União de tabelas                      | Mostra como fazer união de tabelas, seja por simples cruzamento delas ou usando a cláusula JOIN.                            | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_joining_tables.htm)    | [Arquivo](T-SQL/União%20de%20tabelas.sql)                            |
 | Uso da cláusula LIKE                  | Mostra um exemplo de como usar a cláusula LIKE.                                                                             | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_like_clause.htm)       | [Arquivo](T-SQL/Uso%20da%20cláusula%20LIKE.sql)                      |
 | Uso da cláusula WHERE                 | Mostra exemplos de como usar a cláusula WHERE para filtrar registros em um SELECT.                                          | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_where_clause.htm)      | [Arquivo](T-SQL/Uso%20da%20cláusula%20WHERE.sql)                     |
+
+## Funções
+
+| Nome           | Descrição                                                                             | Site do Tutorial                                                                                  | Arquivo                               |
+|:---------------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:--------------------------------------|
+| Função CEILING | Mostra um exemplo da função CEILING, que retorna o menor inteiro maior que um número. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_ceiling) | [Arquivo](T-SQL/Função%20CEILING.sql) |
 
 ## Sub-consultas
 
