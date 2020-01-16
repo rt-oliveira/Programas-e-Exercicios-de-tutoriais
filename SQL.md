@@ -27,6 +27,7 @@
 | Função ATAN2     | Mostra um exemplo da função ATAN2, que faz o arco tangente do quociente de 2 números.        | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_atan2)     | [Arquivo](SQL/Função%20ATAN2.sql)     |
 | Função BIT_AND   | Mostra um exemplo da função BIT_AND, que faz a operação AND bit-a-bit.                       | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_bit_and)   | [Arquivo](SQL/Função%20BIT_AND.sql)   |
 | Função BIT_COUNT | Mostra um exemplo da função BIT_COUNT, que retorna a quantidade de bits ativos de um número. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_bit_count) | [Arquivo](SQL/Função%20BIT_COUNT.sql) |
+| Função BIT_OR    | Mostra um exemplo da função BIT_OR, que faz a operação OR bit-a-bit.                         | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_bit_or)    | [Arquivo](SQL/Função%20BIT_OR.sql)    |
 | Função RAND      | Mostra exemplos de uso da função RAND, para gerar números aleatórios.                        | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-rand-function.htm)                        | [Arquivo](SQL/Função%20RAND.sql)      |
 | Função SQRT      | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada.                          | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm)                        | [Arquivo](SQL/Função%20SQRT.sql)      |
 
