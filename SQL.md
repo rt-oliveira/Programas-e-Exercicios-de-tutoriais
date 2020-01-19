@@ -30,6 +30,7 @@
 | Função BIT_OR    | Mostra um exemplo da função BIT_OR, que faz a operação OR bit-a-bit.                         | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_bit_or)    | [Arquivo](SQL/Função%20BIT_OR.sql)    |
 | Função CEIL      | Mostra um exemplo da função CEIL, que retorna o menor inteiro maior que um número.           | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_ceil)      | [Arquivo](SQL/Função%20CEIL.sql)      |
 | Função CONV      | Mostra um exemplo da função CONV, que retornar números em outras bases numéricas.            | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_conv)      | [Arquivo](SQL/Função%20CONV.sql)      |
+| Função COS       | Mostra um exemplo da função COS, que retorna o cosseno.                                      | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_cos)       | [Arquivo](SQL/Função%20COS.sql)       |
 | Função RAND      | Mostra exemplos de uso da função RAND, para gerar números aleatórios.                        | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-rand-function.htm)                        | [Arquivo](SQL/Função%20RAND.sql)      |
 | Função SQRT      | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada.                          | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm)                        | [Arquivo](SQL/Função%20SQRT.sql)      |
 
