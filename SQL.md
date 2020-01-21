@@ -32,6 +32,7 @@
 | Função CONV      | Mostra um exemplo da função CONV, que retornar números em outras bases numéricas.            | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_conv)      | [Arquivo](SQL/Função%20CONV.sql)      |
 | Função COS       | Mostra um exemplo da função COS, que retorna o cosseno.                                      | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_cos)       | [Arquivo](SQL/Função%20COS.sql)       |
 | Função COT       | Mostra um exemplo da função COT, que retorna o cotangente.                                   | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_cot)       | [Arquivo](SQL/Função%20COT.sql)       |
+| Função DEGREES   | Mostra um exemplo da função DEGREES, que retorna um valor radiano em graus.                  | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_degrees)   | [Arquivo](SQL/Função%20DEGREES.sql)   |
 | Função RAND      | Mostra exemplos de uso da função RAND, para gerar números aleatórios.                        | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-rand-function.htm)                        | [Arquivo](SQL/Função%20RAND.sql)      |
 | Função SQRT      | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada.                          | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm)                        | [Arquivo](SQL/Função%20SQRT.sql)      |
 
