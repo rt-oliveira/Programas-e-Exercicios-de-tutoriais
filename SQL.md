@@ -40,6 +40,7 @@
 
 ## Funções com Strings
 
-| Nome          | Descrição                                                       | Site do Tutorial                                                               | Arquivo                            |
-|:--------------|:----------------------------------------------------------------|:-------------------------------------------------------------------------------|:-----------------------------------|
-| Função CONCAT | Mostra exemplos da função CONCAT, para concatenação de strings. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-concat-function.htm) | [Arquivo](SQL/Função%20CONCAT.sql) |
+| Nome          | Descrição                                                          | Site do Tutorial                                                                                 | Arquivo                            |
+|:--------------|:-------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:-----------------------------------|
+| Função CONCAT | Mostra exemplos da função CONCAT, para concatenação de strings.    | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-concat-function.htm)                   | [Arquivo](SQL/Função%20CONCAT.sql) |
+| Função FORMAT | Mostra um exemplo da função FORMAT, que retorna um dado formatado. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_format) | [Arquivo](SQL/Função%20FORMAT.sql) |
