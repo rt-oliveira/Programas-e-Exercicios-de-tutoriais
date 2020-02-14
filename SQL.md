@@ -10,6 +10,7 @@
 
 ## Funções em registros
 
+| Nome         | Descrição                                                                 | Site do Tutorial                                                              | Arquivo                           |
 |:-------------|:--------------------------------------------------------------------------|:------------------------------------------------------------------------------|:----------------------------------|
 | Função AVG   | Mostra exemplos da função AVG, que retorna a média dos registros.         | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-avg-function.htm)   | [Arquivo](SQL/Função%20AVG.sql)   |
 | Função COUNT | Um exemplo de uso da função COUNT, para contar a quantidade de registros. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-count-function.htm) | [Arquivo](SQL/Função%20COUNT.sql) |
