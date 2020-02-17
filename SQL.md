@@ -33,6 +33,7 @@
 | Função LOG      | Mostra 2 exemplos da função LOG, que faz logaritmo.                                                | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_log)      | [Arquivo](SQL/Função%20LOG.sql)      |
 | Função LOG10    | Mostra um exemplo da função LOG10, que retorna o logaritmo em base 10.                             | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_log10)    | [Arquivo](SQL/Função%20LOG10.sql)    |
 | Função MOD      | Mostra um exemplo da função MOD, que retorna módulo de divisão.                                    | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_mod)      | [Arquivo](SQL/Função%20MOD.sql)      |
+| Função OCT      | Um exemplo da função OCT, que retorna um número em base octal.                                     | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_oct)      | [Arquivo](SQL/Função%20OCT.sql)      |
 | Função RAND     | Mostra exemplos de uso da função RAND, para gerar números aleatórios.                              | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-rand-function.htm)                       | [Arquivo](SQL/Função%20RAND.sql)     |
 | Função SQRT     | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada.                                | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm)                       | [Arquivo](SQL/Função%20SQRT.sql)     |
 
