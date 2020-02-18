@@ -57,6 +57,7 @@
 | Função LOG10 | Mostra um exemplo da função LOG10, que retorna o logaritmo em base 10.      | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_log10) | [Arquivo](SQL/Função%20LOG10.sql) |
 | Função MOD   | Mostra um exemplo da função MOD, que retorna módulo de divisão.             | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_mod)   | [Arquivo](SQL/Função%20MOD.sql)   |
 | Função PI    | Mostra a função PI, que simplesmente retorna o valor de PI.                 | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_pi)    | [Arquivo](SQL/Função%20PI.sql)    |
+| Função POW   | Mostra um exemplo da função POW, que faz potência matemática.               | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_pow)   | [Arquivo](SQL/Função%20POW.sql)   |
 | Função SQRT  | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada.         | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm)                    | [Arquivo](SQL/Função%20SQRT.sql)  |
 
 
