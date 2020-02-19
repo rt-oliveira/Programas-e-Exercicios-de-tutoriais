@@ -58,6 +58,7 @@
 | Função MOD   | Mostra um exemplo da função MOD, que retorna módulo de divisão.             | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_mod)   | [Arquivo](SQL/Função%20MOD.sql)   |
 | Função PI    | Mostra a função PI, que simplesmente retorna o valor de PI.                 | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_pi)    | [Arquivo](SQL/Função%20PI.sql)    |
 | Função POW   | Mostra um exemplo da função POW, que faz potência matemática.               | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_pow)   | [Arquivo](SQL/Função%20POW.sql)   |
+| Função POWER | Mostra um exemplo da função POWER, que faz o mesmo que a função POW.        | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_power) | [Arquivo](SQL/Função%20POWER.sql) |
 | Função SQRT  | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada.         | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm)                    | [Arquivo](SQL/Função%20SQRT.sql)  |
 
 
