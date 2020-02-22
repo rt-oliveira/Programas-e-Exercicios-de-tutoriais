@@ -31,6 +31,7 @@
 | Função LEAST    | Mostra um exemplo da função LEAST, que retorna o menor número de uma lista.                        | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_least)    | [Arquivo](SQL/Função%20LEAST.sql)    |
 | Função OCT      | Um exemplo da função OCT, que retorna um número em base octal.                                     | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_oct)      | [Arquivo](SQL/Função%20OCT.sql)      |
 | Função RAND     | Mostra exemplos de uso da função RAND, para gerar números aleatórios.                              | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-rand-function.htm)                       | [Arquivo](SQL/Função%20RAND.sql)     |
+| Função ROUND    | Mostra dois exemplos da função ROUND, que realiza arredondamentos.                                 | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_round)    | [Arquivo](SQL/Função%20ROUND.sql)    |
 
 ## Funções com Strings
 
