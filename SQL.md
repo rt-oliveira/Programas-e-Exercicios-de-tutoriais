@@ -62,6 +62,7 @@
 | Função POW   | Mostra um exemplo da função POW, que faz potência matemática.               | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_pow)                                                                                  | [Arquivo](SQL/Função%20POW.sql)                                            |
 | Função POWER | Mostra um exemplo da função POWER, que faz o mesmo que a função POW.        | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_power)                                                                                | [Arquivo](SQL/Função%20POWER.sql)                                          |
 | Função SQRT  | Mostra exemplos de uso da função SQRT, que retorna a raiz quadrada.         | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-sqrt-function.htm)<br>[Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_sqrt) | [Arquivo](SQL/Função%20SQRT.sql)<br>[Arquivo](SQL/Função%20SQRT%20(2).sql) |
+| Função STD   | Mostra um exemplo da função STD, que faz desvio padrão.                     | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_std)                                                                                  | [Arquivo](SQL/Função%20STD.sql)                                            |
 
 
 ## Funções trigonométricas
