@@ -23,6 +23,7 @@
 
 | Nome            | Descrição                                                                                          | Site do Tutorial                                                                                   | Arquivo                              |
 |:----------------|:---------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:-------------------------------------|
+| Função BIN      | Mostra um exemplo da função BIN, que retorna um valor em binário.                                  | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_bin)       | [Arquivo](SQL/Função%20BIN.sql)      |
 | Função CEIL     | Mostra um exemplo da função CEIL, que retorna o menor inteiro maior que um número.                 | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_ceil)     | [Arquivo](SQL/Função%20CEIL.sql)     |
 | Função CONV     | Mostra um exemplo da função CONV, que retornar números em outras bases numéricas.                  | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_conv)     | [Arquivo](SQL/Função%20CONV.sql)     |
 | Função FLOOR    | Mostra um exemplo da função FLOOR, que arredonda número para baixo.                                | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_floor)    | [Arquivo](SQL/Função%20FLOOR.sql)    |
