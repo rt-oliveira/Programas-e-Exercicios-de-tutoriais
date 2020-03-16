@@ -38,11 +38,13 @@
 
 ## Funções com Strings
 
-| Nome          | Descrição                                                                     | Site do Tutorial                                                                                 | Arquivo                            |
-|:--------------|:------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:-----------------------------------|
-| Função ASCII  | Mostra um exemplo da função ASCII, que retorna o valor ASCII de um caractere. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_ascii)   | [Arquivo](SQL/Função%20ASCII.sql)  |
-| Função CONCAT | Mostra exemplos da função CONCAT, para concatenação de strings.               | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-concat-function.htm)                   | [Arquivo](SQL/Função%20CONCAT.sql) |
-| Função FORMAT | Mostra um exemplo da função FORMAT, que retorna um dado formatado.            | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_format) | [Arquivo](SQL/Função%20FORMAT.sql) |
+| Nome          | Descrição                                                                            | Site do Tutorial                                                                                 | Arquivo                            |
+|:--------------|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:-----------------------------------|
+| Função ASCII  | Mostra um exemplo da função ASCII, que retorna o valor ASCII de um caractere.        | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_ascii)   | [Arquivo](SQL/Função%20ASCII.sql)  |
+| Função CONCAT | Mostra exemplos da função CONCAT, para concatenação de strings.                      | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-concat-function.htm)                   | [Arquivo](SQL/Função%20CONCAT.sql) |
+| Função FORMAT | Mostra um exemplo da função FORMAT, que retorna um dado formatado.                   | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_format) | [Arquivo](SQL/Função%20FORMAT.sql) |
+| Função LEFT   | Mostra um exemplo da função LEFT, que retorna os primeiros caracteres de uma string. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_left)    | [Arquivo](SQL/Função%20LEFT.sql)   |
+
 
 ## Funções lógicas
 
