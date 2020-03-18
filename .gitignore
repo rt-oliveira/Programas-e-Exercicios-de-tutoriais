@@ -4,3 +4,4 @@
 *.exe
 # Arquivos de swap do Vim
 *.swp
+*.un~
