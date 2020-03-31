@@ -38,15 +38,16 @@
 
 ## Funções com Strings
 
-| Nome          | Descrição                                                                                      | Site do Tutorial                                                                                 | Arquivo                            |
-|:--------------|:-----------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:-----------------------------------|
-| Função ASCII  | Mostra um exemplo da função ASCII, que retorna o valor ASCII de um caractere.                  | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_ascii)   | [Arquivo](SQL/Função%20ASCII.sql)  |
-| Função CONCAT | Mostra exemplos da função CONCAT, para concatenação de strings.                                | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-concat-function.htm)                   | [Arquivo](SQL/Função%20CONCAT.sql) |
-| Função FORMAT | Mostra um exemplo da função FORMAT, que retorna um dado formatado.                             | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_format) | [Arquivo](SQL/Função%20FORMAT.sql) |
-| Função LEFT   | Mostra um exemplo da função LEFT, que retorna os primeiros caracteres de uma string.           | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_left)    | [Arquivo](SQL/Função%20LEFT.sql)   |
-| Função LTRIM  | Mostra um exemplo da função LTRIM, que retorna uma string sem espaços em branco em seu início. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_ltrim)   | [Arquivo](SQL/Função%20LTRIM.sql)  |
-| Função RIGHT  | Mostra um exemplo da função RIGHT, que retorna os N últimos caracteres de uma string.          | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_right)   | [Arquivo](SQL/Função%20RIGHT.sql)  |
-| Função RTRIM  | Mostra um exemplo da função RTRIM, que retorna uma string sem espaços em branco em seu fim.    | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_rtrim)   | [Arquivo](SQL/Função%20RTRIM.sql)  |
+| Nome          | Descrição                                                                                                          | Site do Tutorial                                                                                 | Arquivo                            |
+|:--------------|:-------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:-----------------------------------|
+| Função ASCII  | Mostra um exemplo da função ASCII, que retorna o valor ASCII de um caractere.                                      | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_ascii)   | [Arquivo](SQL/Função%20ASCII.sql)  |
+| Função CONCAT | Mostra exemplos da função CONCAT, para concatenação de strings.                                                    | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-concat-function.htm)                   | [Arquivo](SQL/Função%20CONCAT.sql) |
+| Função FORMAT | Mostra um exemplo da função FORMAT, que retorna um dado formatado.                                                 | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_format) | [Arquivo](SQL/Função%20FORMAT.sql) |
+| Função LEFT   | Mostra um exemplo da função LEFT, que retorna os primeiros caracteres de uma string.                               | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_left)    | [Arquivo](SQL/Função%20LEFT.sql)   |
+| Função LTRIM  | Mostra um exemplo da função LTRIM, que retorna uma string sem espaços em branco em seu início.                     | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_ltrim)   | [Arquivo](SQL/Função%20LTRIM.sql)  |
+| Função RIGHT  | Mostra um exemplo da função RIGHT, que retorna os N últimos caracteres de uma string.                              | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_right)   | [Arquivo](SQL/Função%20RIGHT.sql)  |
+| Função RTRIM  | Mostra um exemplo da função RTRIM, que retorna uma string sem espaços em branco em seu fim.                        | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_rtrim)   | [Arquivo](SQL/Função%20RTRIM.sql)  |
+| Função TRIM   | Mostra exemplos da função TRIM, que retorna uma string sem caracteres específicos no início ou no fim ou em ambos. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_trim)    | [Arquivo](SQL/Função%20TRIM.sql)   |
 
 ## Funções lógicas
 
