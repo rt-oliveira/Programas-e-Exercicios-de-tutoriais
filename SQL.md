@@ -50,6 +50,7 @@
 | Função RIGHT  | Mostra um exemplo da função RIGHT, que retorna os N últimos caracteres de uma string.                              | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_right)   | [Arquivo](SQL/Função%20RIGHT.sql)  |
 | Função RTRIM  | Mostra um exemplo da função RTRIM, que retorna uma string sem espaços em branco em seu fim.                        | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_rtrim)   | [Arquivo](SQL/Função%20RTRIM.sql)  |
 | Função TRIM   | Mostra exemplos da função TRIM, que retorna uma string sem caracteres específicos no início ou no fim ou em ambos. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_trim)    | [Arquivo](SQL/Função%20TRIM.sql)   |
+| Função UCASE  | Mostra um exemplo da função UCASE, que é igual ao UPPER.                                                           | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_ucase)   | [Arquivo](SQL/Função%20UPPER.sql)  |
 | Função UPPER  | Mostra um exemplo da função UPPER, que retorna uma string com todas as suas letras em maiúsculo.                   | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-string-functions.htm#function_upper)   | [Arquivo](SQL/Função%20UPPER.sql)  |
 
 ## Funções lógicas
