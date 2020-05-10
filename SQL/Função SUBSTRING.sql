@@ -4,6 +4,8 @@
 -- Caso informe somente (a), retornará (s) começando da posição (a).
 -- Caso informe (a) e (b), retornará (s) começando da posição (a) e tendo (b) caracteres.
 
+-- Observação: (a) pode ser negativo. Neste caso, será contado da direita para a esquerda.
+
 -- Há quatro sintaxes diferentes para esta função.
 
 -- Nos dois primeiros, informando apenas a posição inicial.
