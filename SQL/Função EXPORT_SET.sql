@@ -1,0 +1,32 @@
+-- Função EXPORT_SET
+-- 5 parâmetros podem ser passados para essa função:
+--	- Um número (chamarei de N), que é obrigatório
+--	- Uma string (chamarei de S1), que é obrigatório
+--	- Uma string (chamarei de S0), que é obrigatório
+--	- Uma string (chamarei de T), que é opcional
+--	- Um outro número (chamarei de M), que é opcional
+--
+-- Como funciona a função?
+--	- A função gera uma outra string como resultado (que chamarei de R)
+--	- Passo a passo:
+--	1- Converte N para a base binária, e pega M ultimos bits dela
+--		 (os menos valiosos), se M foi passado. Caso contrário, pega
+--		 todos os bits de N.
+--	2- Da direita para a esquerda, em cada bit:
+--		 - Se o bit tiver valor 0, concatena S0 em R.
+--		 - Se o bit tiver valor 1, concatena S1 em R.
+--	3- Entre cada par de bits lidos, é adicionado T em R, caso T tenha
+--		 sido passado. Caso contrário, adiciona uma vírgula (',') em R.
+--	4- Após a leitura de cada bit, R é retornado.
+--	Ps.: enquanto que a leitura dos bits é feita da direita para a
+--  esquerda, a concatenação em R é feita no sentido de leitura normal
+--  (da esquerda para a direita).
+--
+-- Resumindo, a função EXPORT_SET "traduz" para strings customizadas
+-- os valores dos bits de um determinado número.
+
+-- Nesse exemplo, será retornada uma string que representará os valores
+-- dos bits do número 5 formatado para 4 bits, ou seja, 5 é 0101 em binário
+-- com 4 bits, com o detalhe que 'Y' significa 1, enquanto que 'N'
+-- significa 0.
+SELECT EXPORT_SET(5, 'Y', 'N', ',', 4);
