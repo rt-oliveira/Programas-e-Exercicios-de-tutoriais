@@ -2,10 +2,7 @@
 -- Pode:
 --	- Caso passe um número como argumento, converte o número
 --		para a base hexadecimal
---	- Caso passe uma string hexadecimal (aquela só com caracteres
---		numéricos e caracteres 'a' a 'f'), converte ela para uma string
---		'normal', convertendo cada par de caracteres hexadecimais para
---		um caractere ASCII.
+--	- Caso passe uma string, converte ela para uma string hexadecimal
 
 -- Nesse primeiro exemplo, está convertendo o número 255 para a sua
 -- representação hexadecimal.
