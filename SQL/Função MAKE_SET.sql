@@ -1,0 +1,33 @@
+-- Função MAKE_SET
+-- São dados:
+--	- Um número (N)
+--	- Uma lista de strings (L)
+-- O que a função faz?
+--	- Cria uma grande string (S). que será uma concatenação
+--	  de um subconjunto de L, cada um separado por vírgula (',').
+-- Como essa string resultante será formada?
+--	1. Cada string de L representará um bit, isto é:
+--		- A primeira string de L representará o bit 0 (o menos valioso);
+--		- A segunda string, o bit 1 (o segundo menos valioso);
+--		- A terceira string, o bit 2 (o terceiro menos valioso);
+--		- E assim por diante...
+--	2. Converte N para a base binária.
+--	3. Para cada bit em N, é checado se seu valor é 1. Caso seja,
+--	   Concatena em S a string que representa o bit correspondente.
+--		- Isto é, se o bit 0 for 1, concatena em S a primeira string de L;
+--		  se o bit 1 for 1, a segunda string; se o bit 2 for 1, a terceira,
+--		  e assim por diante...
+--		- Observação: entre cada par de string há uma vírgula (',').
+--	- Segunda observação: valores NULL não são concatenados.
+
+-- Neste exemplo, são passados:
+--	- O número 1;
+--	- E uma lista de strings com 2 strings('a', 'b' e 'c').
+-- "Executando" a função:
+--	1. A string 'a' equivalerá ao bit 0;
+--	   A string 'b' ao bit 1;
+--	   E a string 'c' ao bit 2.
+--	2. Ao converter 1 para binário, vemos que o resultado é o mesmo número 1.
+--	3. O único bit que há no número 1 em binário é de valor 1, com isso, a função
+--	   MAKE_SET retornará simplesmente a string 'a'.
+SELECT MAKE_SET(1, 'a', 'b', 'c');
