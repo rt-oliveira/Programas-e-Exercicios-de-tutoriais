@@ -3,6 +3,7 @@
 ## Exemplos em T-SQL de tutoriais
 
 - [Funções](#fun%C3%A7%C3%B5es)
+- [Funções de String](#fun%C3%A7%C3%B5es-de-string)
 - [Sub-consultas](#sub-consultas)
 - [Transações](#transa%C3%A7%C3%B5es)
 
@@ -28,6 +29,12 @@
 | Nome           | Descrição                                                                             | Site do Tutorial                                                                                  | Arquivo                               |
 |:---------------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:--------------------------------------|
 | Função CEILING | Mostra um exemplo da função CEILING, que retorna o menor inteiro maior que um número. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_ceiling) | [Arquivo](T-SQL/Função%20CEILING.sql) |
+
+## Funções de String
+
+|     Nome    |                                      Descrição                                       |                                   Site do Tutorial                                  |              Arquivo               |
+|-------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------|
+| Função LEFT | Mostra um exemplo da função LEFT, que retorna os primeiros caracteres de uma string. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LEFT.sql) |
 
 ## Sub-consultas
 
