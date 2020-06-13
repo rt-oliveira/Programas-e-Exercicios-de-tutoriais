@@ -35,6 +35,7 @@
 |     Nome     |                                      Descrição                                       |                                   Site do Tutorial                                  |               Arquivo               |
 |--------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------|
 | Função LEFT  | Mostra um exemplo da função LEFT, que retorna os primeiros caracteres de uma string. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LEFT.sql)  |
+| Função LOWER | Mostra um exemplo da função LOWER, que põe toda uma string em caracteres minúsculos. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LOWER.sql) |
 | Função RIGHT | Mostra um exemplo da função RIGHT, que retorna os últimos caracteres de uma string.  | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20RIGHT.sql) |
 
 ## Sub-consultas
