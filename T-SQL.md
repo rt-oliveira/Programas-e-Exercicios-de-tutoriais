@@ -32,15 +32,16 @@
 
 ## Funções de String
 
-|     Nome     |                                        Descrição                                         |                                   Site do Tutorial                                  |               Arquivo               |
-|--------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------|
-| Função LEFT  | Mostra um exemplo da função LEFT, que retorna os primeiros caracteres de uma string.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LEFT.sql)  |
-| Função LEN   | Mostra um exemplo da função LEN, que retorna a quantidade de caracteres de uma string.   | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LEN.sql)   |
-| Função LOWER | Mostra um exemplo da função LOWER, que põe toda uma string em caracteres minúsculos.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LOWER.sql) |
-| Função LTRIM | Mostra um exemplo da função LTRIM, que retira espaços em branco no início de uma string. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LTRIM.sql) |
-| Função RIGHT | Mostra um exemplo da função RIGHT, que retorna os últimos caracteres de uma string.      | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20RIGHT.sql) |
-| Função RTRIM | Mostra um exemplo da função RTRIM, que retira espaços em branco no fim de uma string.    | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20RTRIM.sql) |
-| Função UPPER | Mostra um exemplo da função UPPER, que põe toda uma string em caracteres maiúsculos.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20UPPER.sql) |
+|      Nome      |                                        Descrição                                         |                                   Site do Tutorial                                  |                Arquivo                |
+|----------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------|
+| Função LEFT    | Mostra um exemplo da função LEFT, que retorna os primeiros caracteres de uma string.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LEFT.sql)    |
+| Função LEN     | Mostra um exemplo da função LEN, que retorna a quantidade de caracteres de uma string.   | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LEN.sql)     |
+| Função LOWER   | Mostra um exemplo da função LOWER, que põe toda uma string em caracteres minúsculos.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LOWER.sql)   |
+| Função LTRIM   | Mostra um exemplo da função LTRIM, que retira espaços em branco no início de uma string. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LTRIM.sql)   |
+| Função REVERSE | Mostra um exemplo da função REVERSE, que inverte a ordem das letras de uma string.       | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20REVERSE.sql) |
+| Função RIGHT   | Mostra um exemplo da função RIGHT, que retorna os últimos caracteres de uma string.      | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20RIGHT.sql)   |
+| Função RTRIM   | Mostra um exemplo da função RTRIM, que retira espaços em branco no fim de uma string.    | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20RTRIM.sql)   |
+| Função UPPER   | Mostra um exemplo da função UPPER, que põe toda uma string em caracteres maiúsculos.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20UPPER.sql)   |
 
 ## Sub-consultas
 
