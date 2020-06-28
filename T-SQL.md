@@ -41,6 +41,7 @@
 | Função REVERSE | Mostra um exemplo da função REVERSE, que inverte a ordem das letras de uma string.       | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20REVERSE.sql) |
 | Função RIGHT   | Mostra um exemplo da função RIGHT, que retorna os últimos caracteres de uma string.      | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20RIGHT.sql)   |
 | Função RTRIM   | Mostra um exemplo da função RTRIM, que retira espaços em branco no fim de uma string.    | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20RTRIM.sql)   |
+| Função SPACE   | Mostra um exemplo da função SPACE, que cria string em branco.                            | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20SPACE.sql)   |
 | Função UPPER   | Mostra um exemplo da função UPPER, que põe toda uma string em caracteres maiúsculos.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20UPPER.sql)   |
 
 ## Sub-consultas
