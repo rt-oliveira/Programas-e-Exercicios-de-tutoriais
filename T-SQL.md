@@ -34,6 +34,7 @@
 
 |      Nome      |                                        Descrição                                         |                                   Site do Tutorial                                  |                Arquivo                |
 |----------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------|
+| Função ASCII   | Mostra um exemplo da função ASCII, que retorna o código ASCII de um caractere.           | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20ASCII.sql)   |
 | Função LEFT    | Mostra um exemplo da função LEFT, que retorna os primeiros caracteres de uma string.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LEFT.sql)    |
 | Função LEN     | Mostra um exemplo da função LEN, que retorna a quantidade de caracteres de uma string.   | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LEN.sql)     |
 | Função LOWER   | Mostra um exemplo da função LOWER, que põe toda uma string em caracteres minúsculos.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20LOWER.sql)   |
