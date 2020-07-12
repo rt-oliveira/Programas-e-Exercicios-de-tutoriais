@@ -8,7 +8,7 @@
 - [Transações](#transa%C3%A7%C3%B5es)
 
 | Nome                                  | Descrição                                                                                                                   | Site do Tutorial                                                                     | Arquivo                                                              |
-|:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|:---------------------------------------------------------------------|
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | Agrupamento de dados                  | Um exemplo de como usar a cláusula GROUP BY para agrupar dados.                                                             | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_group_by_clause.htm)   | [Arquivo](T-SQL/Agrupamento%20de%20dados.sql)                        |
 | Atualização dos dados de uma tabela   | Mostra dois exemplos de como atualizar os dados de uma tabela.                                                              | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_update_statement.htm)  | [Arquivo](T-SQL/Atualização%20dos%20dados%20de%20uma%20tabela.sql)   |
 | Criação de índices                    | Tem exemplos que mostram os diferentes tipos de índices que podem ser criados nas tabelas no SQL Server.                    | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_indexes.htm)           | [Arquivo](T-SQL/Criação%20de%20índices.sql)                          |
@@ -27,12 +27,12 @@
 ## Funções
 
 | Nome           | Descrição                                                                             | Site do Tutorial                                                                                  | Arquivo                               |
-|:---------------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:--------------------------------------|
+|----------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|
 | Função CEILING | Mostra um exemplo da função CEILING, que retorna o menor inteiro maior que um número. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_ceiling) | [Arquivo](T-SQL/Função%20CEILING.sql) |
 
 ## Funções de String
 
-|      Nome      |                                        Descrição                                         |                                   Site do Tutorial                                  |                Arquivo                |
+| Nome           | Descrição                                                                                | Site do Tutorial                                                                    | Arquivo                               |
 |----------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------|
 | Função ASCII   | Mostra um exemplo da função ASCII, que retorna o código ASCII de um caractere.           | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20ASCII.sql)   |
 | Função CHAR    | Mostra um exemplo da função CHAR, que retorna o caractere referente a um código ASCII.   | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20CHAR.sql)    |
@@ -45,12 +45,13 @@
 | Função RIGHT   | Mostra um exemplo da função RIGHT, que retorna os últimos caracteres de uma string.      | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20RIGHT.sql)   |
 | Função RTRIM   | Mostra um exemplo da função RTRIM, que retira espaços em branco no fim de uma string.    | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20RTRIM.sql)   |
 | Função SPACE   | Mostra um exemplo da função SPACE, que cria string em branco.                            | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20SPACE.sql)   |
+| Função UNICODE | Mostra um exemplo da função UNICODE, que retorna o código Unicode de um caractere.       | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20UNICODE.sql) |
 | Função UPPER   | Mostra um exemplo da função UPPER, que põe toda uma string em caracteres maiúsculos.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20UPPER.sql)   |
 
 ## Sub-consultas
 
 | Nome                       | Descrição                                                   | Site do Tutorial                                                               | Arquivo                                                 |
-|:---------------------------|:------------------------------------------------------------|:-------------------------------------------------------------------------------|:--------------------------------------------------------|
+|----------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------|
 | SELECT dentro de um DELETE | Um exemplo de como usar sub-consultas no comando DELETE.    | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_sub_queries.htm) | [Arquivo](T-SQL/SELECT%20dentro%20de%20um%20DELETE.sql) |
 | SELECT dentro de um INSERT | Um exemplo de como usar sub-consultas em um comando INSERT. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_sub_queries.htm) | [Arquivo](T-SQL/SELECT%20dentro%20de%20um%20INSERT.sql) |
 | SELECT dentro de um SELECT | Um exemplo de como fazer sub-consulta no comando SELECT.    | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_sub_queries.htm) | [Arquivo](T-SQL/SELECT%20dentro%20de%20um%20SELECT.sql) |
@@ -59,7 +60,7 @@
 ## Transações
 
 | Nome                      | Descrição                                            | Site do Tutorial                                                                | Arquivo                                            |
-|:--------------------------|:-----------------------------------------------------|:--------------------------------------------------------------------------------|:---------------------------------------------------|
+|---------------------------|------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|
 | Alterações desfeitas      | Um exemplo de uso do comando ROLLBACK em transações. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_transactions.htm) | [Arquivo](T-SQL/Alterações%20desfeitas.sql)        |
 | Comando SAVE              | Um exemplo de uso do comando SAVE em transações.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_transactions.htm) | [Arquivo](T-SQL/Comando%20SAVE.sql)                |
 | Confirmação de alterações | Um exemplo de uso do comando COMMIT em transações.   | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_transactions.htm) | [Arquivo](T-SQL/Confirmação%20de%20alterações.sql) |
