@@ -33,9 +33,10 @@
 
 ## Funções de data
 
-| Nome           | Descrição                                                                   | Site do Tutorial                                                                  | Arquivo                               |
-|----------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------|
-| Função GETDATE | Mostra um exemplo da função GETDATE, que retorna a data e hora atual do BD. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_date_functions.htm) | [Arquivo](T-SQL/Função%20GETDATE.sql) |
+| Nome           | Descrição                                                                                     | Site do Tutorial                                                                  | Arquivo                               |
+|----------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------|
+| Função DATEADD | Mostra um exemplo da função DATEADD, que adiciona uma porção de tempo a uma determinada data. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_date_functions.htm) | [Arquivo](T-SQL/Função%20DATEADD.sql) |
+| Função GETDATE | Mostra um exemplo da função GETDATE, que retorna a data e hora atual do BD.                   | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_date_functions.htm) | [Arquivo](T-SQL/Função%20GETDATE.sql) |
 
 ## Funções de String
 
