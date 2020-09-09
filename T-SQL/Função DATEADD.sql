@@ -5,4 +5,4 @@
 -- https://docs.microsoft.com/pt-br/sql/t-sql/functions/dateadd-transact-sql?view=sql-server-ver15
 
 -- Neste exemplo, será retornada a data equivalente a daqui a 10 dias.
-SELECT DATEADD(day, 10, getdate());
+Select dateadd(day, 10, getdate()) as after10daysdatetimefromcurrentdatetime;
