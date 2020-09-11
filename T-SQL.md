@@ -37,6 +37,7 @@
 |-----------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------|
 | Função DATEADD  | Mostra um exemplo da função DATEADD, que adiciona uma porção de tempo a uma determinada data. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_date_functions.htm) | [Arquivo](T-SQL/Função%20DATEADD.sql)  |
 | Função DATEDIFF | Mostra um exemplo da função DATEDIFF, que mostra a diferença de tempo entre duas datas.       | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_date_functions.htm) | [Arquivo](T-SQL/Função%20DATEDIFF.sql) |
+| Função DATEPART | Mostra um exemplo da função DATEPART, que retorna um exemplo de uma determinada data.         | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_date_functions.htm) | [Arquivo](T-SQL/Função%20DATEPART.sql) |
 | Função GETDATE  | Mostra um exemplo da função GETDATE, que retorna a data e hora atual do BD.                   | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_date_functions.htm) | [Arquivo](T-SQL/Função%20GETDATE.sql)  |
 
 ## Funções de String
