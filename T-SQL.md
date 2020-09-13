@@ -5,6 +5,7 @@
 - [Funções matemáticas](#fun%C3%A7%C3%B5es-matem%C3%A1ticas)
 - [Funções de data](#fun%C3%A7%C3%B5es-de-data)
 - [Funções de String](#fun%C3%A7%C3%B5es-de-string)
+- [Outras funções](#outras-fun%C3%A7%C3%B5es)
 - [Sub-consultas](#sub-consultas)
 - [Transações](#transa%C3%A7%C3%B5es)
 
@@ -69,6 +70,12 @@
 | Função SUBSTRING  | Mostra um exemplo da função SUBSTRING, que retorna uma parte de uma string.                                   | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20SUBSTRING.sql)  |
 | Função UNICODE    | Mostra um exemplo da função UNICODE, que retorna o código Unicode de um caractere.                            | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20UNICODE.sql)    |
 | Função UPPER      | Mostra um exemplo da função UPPER, que põe toda uma string em caracteres maiúsculos.                          | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_string_functions.htm) | [Arquivo](T-SQL/Função%20UPPER.sql)      |
+
+## Outras funções
+
+| Nome           | Descrição                                                                     | Site do Tutorial                                                                  | Arquivo                               |
+|----------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------|
+| Função CONVERT | Mostra um exemplo da função CONVERT, que converte dados entre tipos de dados. | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_date_functions.htm) | [Arquivo](T-SQL/Função%20CONVERT.sql) |
 
 ## Sub-consultas
 
