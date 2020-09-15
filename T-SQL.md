@@ -28,11 +28,11 @@
 
 ## Funções matemáticas
 
-| Nome           | Descrição                                                                             | Site do Tutorial                                                                                  | Arquivo                               |
-|----------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|
-| Função CEILING | Mostra um exemplo da função CEILING, que retorna o menor inteiro maior que um número. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_ceiling) | [Arquivo](T-SQL/Função%20CEILING.sql) |
-| Função MAX     | Mostra um exemplo da função MAX, que retorna o maior valor de um campo.               | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20MAX.sql)     |
-| Função MIN     | Mostra um exemplo da função MIN, que retorna o menor valor de um campo.               | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20MIN.sql)     |
+| Nome           | Descrição                                                                             | Site do Tutorial                                                                                  | Arquivo                                                                                          |
+|----------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Função CEILING | Mostra um exemplo da função CEILING, que retorna o menor inteiro maior que um número. | [Site do tutorial](https://www.tutorialspoint.com/sql/sql-numeric-functions.htm#function_ceiling) | [Arquivo](T-SQL/Função%20CEILING.sql)<br>[Arquivo](T-SQL%2FFun%C3%A7%C3%A3o%20CEILING%20(2).sql) |
+| Função MAX     | Mostra um exemplo da função MAX, que retorna o maior valor de um campo.               | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20MAX.sql)                                                                |
+| Função MIN     | Mostra um exemplo da função MIN, que retorna o menor valor de um campo.               | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20MIN.sql)                                                                |
 
 ## Funções de data
 
