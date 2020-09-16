@@ -34,6 +34,7 @@
 | Função FLOOR   | Mostra um exemplo da função FLOOR, que retorna o maior inteiro menor que um número.   | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20FLOOR.sql)                                                              |
 | Função MAX     | Mostra um exemplo da função MAX, que retorna o maior valor de um campo.               | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20MAX.sql)                                                                |
 | Função MIN     | Mostra um exemplo da função MIN, que retorna o menor valor de um campo.               | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20MIN.sql)                                                                |
+| Função PI      | Mostra um exemplo da função PI, que retorna o valor da constante respectiva.          | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20PI.sql)                                                                 |
 
 ## Funções de data
 
