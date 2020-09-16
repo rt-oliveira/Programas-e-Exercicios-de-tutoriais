@@ -35,6 +35,7 @@
 | Função MAX     | Mostra um exemplo da função MAX, que retorna o maior valor de um campo.               | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20MAX.sql)                                                                |
 | Função MIN     | Mostra um exemplo da função MIN, que retorna o menor valor de um campo.               | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20MIN.sql)                                                                |
 | Função PI      | Mostra um exemplo da função PI, que retorna o valor da constante respectiva.          | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20PI.sql)                                                                 |
+| Função SQRT    | Mostra um exemplo da função SQRT, que retorna o valor raiz quadrada de um número.     | [Site do tutorial](https://www.tutorialspoint.com/t_sql/t_sql_numeric_functions.htm)              | [Arquivo](T-SQL/Função%20SQRT.sql)                                                               |
 
 ## Funções de data
 
