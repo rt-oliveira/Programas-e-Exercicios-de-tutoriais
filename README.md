@@ -29,9 +29,13 @@ Aqui estarão alguns programas e exercícios feitos de sites com tutoriais de li
     <td>C#, SQL, T-SQL</td>
   </tr>
   <tr>
-		<td colspan=2>Rocketseat</td>
-		<td>Node.js, ReactJS e React Native</td>
-	</tr>
+	<td colspan=2>Rocketseat</td>
+	<td>Node.js, ReactJS e React Native</td>
+  </tr>
+  <tr>
+    <td colspan=2>Udemy</td>
+    <td>HTML, CSS, JavaScript, PHP, MySQL</td>
+  </tr>
 </table>
 
 Este repositório, de certa forma, servirá como um acompanhamento de minha familiadade/experiência com as linguagens e tecnologias.
