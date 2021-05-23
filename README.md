@@ -26,7 +26,7 @@ Aqui estarão alguns programas e exercícios feitos de sites com tutoriais de li
   </tr>
   <tr>
     <td colspan=2>TutorialsPoint</td>
-    <td>C#, SQL, T-SQL</td>
+    <td>C#, PHP, SQL, T-SQL</td>
   </tr>
   <tr>
 	<td colspan=2>Rocketseat</td>
@@ -53,6 +53,7 @@ Abaixo estará a lista dos exercícios e programas feitos de tutoriais que estã
 - Conteúdos
 	- [C#](#c-sharp-c)
 	- [Node.js](#nodejs)
+	- [PHP](#php)
 	- [Projetos](#projetos)
 	- [SQL](#sql)
    - [T-SQL](#t-sql)
@@ -88,6 +89,8 @@ Abaixo estará a lista dos exercícios e programas feitos de tutoriais que estã
 | Teste de existência de arquivo                     | Mostra como testar se um arquivo existe em um determinado caminho, ou não.                                                                                          | [Site do tutorial](http://www.youtube.com/watch?v=xiXuOWYxAok) | [Arquivo](Node.js/Teste%20de%20existência%20de%20arquivo.js)                         |
 | Tratamento de erro com o objeto process            | Mostra um exemplo de tratar erros no Node.js usando o objeto *process*.                                                                                             | [Site do tutorial](http://www.youtube.com/watch?v=VSz4aWpI15s) | [Arquivo](Node.js/Tratamento%20de%20erro%20com%20o%20objeto%20process.js)            |
 | Troca do diretório atual de trabalho               | Mostra como trocar o diretório atual de trabalho de um programa Node.js.                                                                                            | [Site do tutorial](http://www.youtube.com/watch?v=xiXuOWYxAok) | [Arquivo](Node.js/Troca%20do%20diretório%20atual%20de%20trabalho.js)                 |
+
+## [PHP](PHP.md)
 
 ## Projetos
 
