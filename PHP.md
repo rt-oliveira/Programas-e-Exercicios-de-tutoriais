@@ -29,5 +29,5 @@
 
 | Nome              | Descrição                                       | Site do tutorial                                                | Arquivo                                  |
 |-------------------|-------------------------------------------------|-----------------------------------------------------------------|------------------------------------------|
-| Funções de string | Um exemplo de uso de algumas funções de string. | [Site do tutorial](https://www.youtube.com/watch?v=YkkqgI6pK0k) | [Arquivo](php/funções%20de%20string.php) |
-| Uso de strings    | Um exemplo de como declarar e usar strings.     | [Site do tutorial](https://www.youtube.com/watch?v=YkkqgI6pK0k) | [Arquivo](php/uso%20de%20strings.php)    |
+| Funções de string | Um exemplo de uso de algumas funções de string. | [Site do tutorial](https://www.youtube.com/watch?v=YkkqgI6pK0k) | [Arquivo](PHP/Funções%20de%20string.php) |
+| Uso de strings    | Um exemplo de como declarar e usar strings.     | [Site do tutorial](https://www.youtube.com/watch?v=YkkqgI6pK0k) | [Arquivo](PHP/Uso%20de%20strings.php)    |
