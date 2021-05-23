@@ -13,7 +13,7 @@
 | Laço do..while | Um exemplo do laço *do..while* | [Site do tutorial](https://www.youtube.com/watch?v=zp4LAEM72Sk) | [Arquivo](PHP/Laço%20do..while.php) |
 | Laço for       | Um exemplo do laço *for*       | [Site do tutorial](https://www.youtube.com/watch?v=d2SCo4V7pIs) | [Arquivo](PHP/Laço%20for.php)       |
 | Laço foreach   | Um exemplo do laço *foreach*   | [Site do tutorial](https://www.youtube.com/watch?v=OooGSofCZ4E) | [Arquivo](PHP/Laço%20foreach.php)   |
-| Laço while     | Um exemplo do laço *while*     | [Site do tutorial](https://www.youtube.com/watch?v=91p1hfxgo-Y) | [Arquivo](PHP/Laço%20while.php      |
+| Laço while     | Um exemplo do laço *while*     | [Site do tutorial](https://www.youtube.com/watch?v=91p1hfxgo-Y) | [Arquivo](PHP/Laço%20while.php)     |
 
 ## Matrizes e vetores
 
