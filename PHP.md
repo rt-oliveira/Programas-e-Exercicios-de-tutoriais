@@ -5,6 +5,7 @@
 - [Estruturas de repetição](#estruturas-de-repetição)
 - [Funções](#funções)
 - [Matrizes e vetores](#matrizes-e-vetores)
+- [Orientação a objetos](#orientação-a-objetos)
 - [Strings](#strings)
 
 
@@ -37,6 +38,15 @@
 | Matrizes             | Um exemplo de como manipular com matrizes                      | [Site do tutorial](https://www.youtube.com/watch?v=3siO-1mQRhc) | [Arquivo](PHP/Matrizes.php)               |
 | Vetores              | Um exemplo de como criar vetores                               | [Site do tutorial](https://www.youtube.com/watch?v=3siO-1mQRhc) | [Arquivo](PHP/Vetores.php)                |
 | Vetores associativos | Um exemplo de como manipular com vetores associativos          | [Site do tutorial](https://www.youtube.com/watch?v=3siO-1mQRhc) | [Arquivo](PHP/Vetores%20associativos.php) |
+
+## Orientação a objetos
+
+| Nome              | Descrição                                     | Site do Tutorial                                                | Arquivo                                  |
+| ----------------- | --------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------- |
+| Classe abstrata   | Um exemplo de uso de classe abstrata.         | [Site do tutorial](https://www.youtube.com/watch?v=P2Q6MuPg9e0) | [Arquivo](PHP/Classe%20abstrata.php)     |
+| Classes e objetos | Um exemplo básico de classe e objeto.         | [Site do tutorial](https://www.youtube.com/watch?v=KfivH9naMUE) | [Arquivo](PHP/Classes%20e%20objetos.php) |
+| Herança           | Um exemplo de herança e sobrecarga de método. | [Site do tutorial](https://www.youtube.com/watch?v=_y0HQJdt40E) | [Arquivo](PHP/Herança.php)               |
+| Interface         | Um exemplo de uso de interfaces.              | [Site do tutorial](https://www.youtube.com/watch?v=P2Q6MuPg9e0) | [Arquivo](PHP/Interface.php)             |
 
 ## Strings
 
