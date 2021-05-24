@@ -4,6 +4,9 @@
 
 - [Entrada e saída de dados](#entrada-e-saída-de-dados)
 - [Estruturas de repetição](#estruturas-de-repetição)
+- [Extensões](#extensões)
+  - [mysql](#mysql)
+  - [mysqli](#mysqli)
 - [Funções](#funções)
 - [Matrizes e vetores](#matrizes-e-vetores)
 - [Orientação a objetos](#orientação-a-objetos)
@@ -29,6 +32,24 @@
 | Laço for       | Um exemplo do laço *for*       | [Site do tutorial](https://www.youtube.com/watch?v=d2SCo4V7pIs) | [Arquivo](PHP/Laço%20for.php)       |
 | Laço foreach   | Um exemplo do laço *foreach*   | [Site do tutorial](https://www.youtube.com/watch?v=OooGSofCZ4E) | [Arquivo](PHP/Laço%20foreach.php)   |
 | Laço while     | Um exemplo do laço *while*     | [Site do tutorial](https://www.youtube.com/watch?v=91p1hfxgo-Y) | [Arquivo](PHP/Laço%20while.php)     |
+
+## Extensões
+
+### mysql
+
+| Nome                     | Descrição                                                                       | Site do Tutorial                                                | Arquivo                                             |
+| ------------------------ | ------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- |
+| mysql - Exemplo geral    | Um exemplo geral sobre a API mysql.                                             | [Site do tutorial](https://www.youtube.com/watch?v=MddOWzEVx_w) | [Arquivo](PHP/mysql%20-%20Exemplo%20geral.php)      |
+| mysql - Novo dado        | Um exemplo, usando um formulário HTML, de inserção de dados usando a API mysql. | [Site do tutorial](https://www.youtube.com/watch?v=MddOWzEVx_w) | [Arquivo](PHP/mysql%20-%20Novo%20dado.php)          |
+| mysql - Seleção de dados | Um exemplo, com a API mysql, de seleção de dados.                               | [Site do tutorial](https://www.youtube.com/watch?v=MddOWzEVx_w) | [Arquivo](PHP/mysql%20-%20Seleção%20de%20dados.php) |
+
+### mysqli
+
+| Nome                                   | Descrição                                                             | Site do Tutorial                                                | Arquivo                                                               |
+| -------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------- |
+| mysqli - Exemplo geral com objetos     | Exemplo geral, usando a API mysqli, com a forma de objetos.           | [Site do tutorial](https://www.youtube.com/watch?v=SVG-bwjEA5Q) | [Arquivo](PHP/mysqli%20-%20Exemplo%20geral%20com%20objetos.php)       |
+| mysqli - Seleção de dados - objeto     | Exemplo, usando a API mysqli, de seleção de dados, usando um objeto.  | [Site do tutorial](https://www.youtube.com/watch?v=SVG-bwjEA5Q) | [Arquivo](PHP/mysqli%20-%20Seleção%20de%20dados%20-%20objeto.php)     |
+| mysqli - Seleção de dados - procedural | Um exemplo, usando a API mysqli, de seleção de dados, usando funções. | [Site do tutorial](https://www.youtube.com/watch?v=SVG-bwjEA5Q) | [Arquivo](PHP/mysqli%20-%20Seleção%20de%20dados%20-%20procedural.php) |
 
 ## Funções
 
