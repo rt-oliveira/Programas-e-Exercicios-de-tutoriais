@@ -2,11 +2,20 @@
 
 <h2>Exemplos de PHP de tutoriais</h2>
 
+- [Entrada e saída de dados](#entrada-e-saída-de-dados)
 - [Estruturas de repetição](#estruturas-de-repetição)
 - [Funções](#funções)
 - [Matrizes e vetores](#matrizes-e-vetores)
 - [Orientação a objetos](#orientação-a-objetos)
 - [Strings](#strings)
+
+## Entrada e saída de dados
+
+| Nome                               | Descrição                                              | Site do Tutorial                                                | Arquivo                                                           |
+| ---------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Escrita em arquivo                 | Um exemplo de escrita de dados em arquivo.             | [Site do tutorial](https://www.youtube.com/watch?v=29rQbLqGTpk) | [Arquivo](PHP/Escrita%20em%20arquivo.php)                         |
+| Leitura de arquivo                 | Um exemplo de leitura de dados em um arquivo.          | [Site do tutorial](https://www.youtube.com/watch?v=29rQbLqGTpk) | [Arquivo](PHP/Leitura%20de%20arquivo.php)                         |
+| Leitura e escrita de dados na tela | Um exemplo de entrada e saída de dados para o console. | [Site do tutorial](https://www.youtube.com/watch?v=MLx2QmYCSG4) | [Arquivo](PHP/Leitura%20e%20escrita%20de%20dados%20na%20tela.php) |
 
 
 ## Estruturas de repetição
