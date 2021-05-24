@@ -8,7 +8,9 @@
 - [Matrizes e vetores](#matrizes-e-vetores)
 - [Orientação a objetos](#orientação-a-objetos)
 - [Strings](#strings)
+- [Tratamento de Exceções](#tratamento-de-exceções)
 - [Web](#web)
+- [Miscelânea](#miscelânea)
 
 ## Entrada e saída de dados
 
@@ -65,6 +67,15 @@
 | Funções de string | Um exemplo de uso de algumas funções de string. | [Site do tutorial](https://www.youtube.com/watch?v=YkkqgI6pK0k) | [Arquivo](PHP/Funções%20de%20string.php) |
 | Uso de strings    | Um exemplo de como declarar e usar strings.     | [Site do tutorial](https://www.youtube.com/watch?v=YkkqgI6pK0k) | [Arquivo](PHP/Uso%20de%20strings.php)    |
 
+## Tratamento de Exceções
+
+| Nome                    | Descrição                                                     | Site do tutorial                                                | Arquivo                                        |
+| ----------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------- |
+| Função die              | Um exemplo da função "die", que ajuda no tratamento de erros. | [Site do tutorial](https://www.youtube.com/watch?v=a4u0YulEIX8) | [Arquivo](PHP/Função%20die.php)                |
+| Manipulador de exceções | Um exemplo de como criar um tratador customizado de exceções. | [Site do tutorial](https://www.youtube.com/watch?v=9yzcVlO3TMw) | [Arquivo](PHP/Manipulador%20de%20exceções.php) |
+| Tratamento de erro      | Um exemplo de como tratar erros.                              | [Site do tutorial](https://www.youtube.com/watch?v=a4u0YulEIX8) | [Arquivo](PHP/Tratamento%20de%20erro.php)      |
+| Try catch               | Um exemplo de tratar exceções.                                | [Site do tutorial](https://www.youtube.com/watch?v=9yzcVlO3TMw) | [Arquivo](PHP/Try%20catch.php)                 |
+
 ## Web
 
 | Nome                                                         | Descrição                                                                                                                    | Site do tutorial                                                | Arquivo                                                                                                                                                                             |
@@ -77,3 +88,9 @@
 | Método HTTP GET                                              | Um exemplo do método HTTP GET.                                                                                               | [Site do tutorial](https://www.youtube.com/watch?v=aNwU0Oxky60) | [Arquivo](PHP/Método%20HTTP%20GET.php)                                                                                                                                              |
 | Método HTTP POST                                             | Um exemplo do método HTTP POST.                                                                                              | [Site do tutorial](https://www.youtube.com/watch?v=aNwU0Oxky60) | [Arquivo](PHP/Método%20HTTP%20POST.php)                                                                                                                                             |
 | Sessões - formulário, Ver dados da sessão                    | Um exemplo que envolve 2 arquivos, para mostrar o uso de sessões, como guardar dados da sessão, e usá-los em outras páginas. | [Site do tutorial](https://www.youtube.com/watch?v=opoI4C8xoN8) | [Arquivo formulário](PHP/Sessões%20-%20formulário.php)<br>[Arquivo leitura de dados da sessão](PHP/Ver%20dados%20da%20sessão.php)                                                   |
+
+## Miscelânea
+
+| Nome              | Descrição                                                         | Site do tutorial                                                | Arquivo                                  |
+| ----------------- | ----------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------- |
+| Variável $_SERVER | Um exemplo mostrando os conteúdos que a variável $_SERVER guarda. | [Site do tutorial](https://www.youtube.com/watch?v=7LoU_SauwSo) | [Arquivo](PHP/Variável%20%24_SERVER.php) |
