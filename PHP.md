@@ -10,6 +10,7 @@
 - [Funções](#funções)
 - [Matrizes e vetores](#matrizes-e-vetores)
 - [Orientação a objetos](#orientação-a-objetos)
+- [Recursos do PHP 7](#recursos-do-php-7)
 - [Strings](#strings)
 - [Tratamento de Exceções](#tratamento-de-exceções)
 - [Web](#web)
@@ -80,6 +81,12 @@
 | Classes e objetos | Um exemplo básico de classe e objeto.         | [Site do tutorial](https://www.youtube.com/watch?v=KfivH9naMUE) | [Arquivo](PHP/Classes%20e%20objetos.php) |
 | Herança           | Um exemplo de herança e sobrecarga de método. | [Site do tutorial](https://www.youtube.com/watch?v=_y0HQJdt40E) | [Arquivo](PHP/Herança.php)               |
 | Interface         | Um exemplo de uso de interfaces.              | [Site do tutorial](https://www.youtube.com/watch?v=P2Q6MuPg9e0) | [Arquivo](PHP/Interface.php)             |
+
+## Recursos do PHP 7
+
+| Nome                       | Descrição                                                | Site do Tutorial                                                | Arquivo                                             |
+| -------------------------- | -------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- |
+| Declaração de tipo escalar | Um exemplo de tutorial sobre declaração de tipo escalar. | [Site do tutorial](https://www.youtube.com/watch?v=iwWl_BjjCTs) | [Arquivo](PHP/Declaração%20de%20tipo%20escalar.php) |
 
 ## Strings
 
