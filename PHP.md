@@ -88,6 +88,7 @@
 | -------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- |
 | Declaração de tipo escalar | Um exemplo de tutorial sobre declaração de tipo escalar.                              | [Site do tutorial](https://www.youtube.com/watch?v=iwWl_BjjCTs) | [Arquivo](PHP/Declaração%20de%20tipo%20escalar.php) |
 | Operador de coalescência   | Um exemplo do operador de coalescência, para testar valores configurador e não nulos. | [Site do tutorial](https://www.youtube.com/watch?v=lr-eMS2G91Y) | [Arquivo](PHP/Operador%20de%20coalescência.php)     |
+| Operador de nave espacial  | Um exemplo deste novo operador, que ajuda a testar igualdade de valores.              | [Site do tutorial](https://www.youtube.com/watch?v=dYdTuE1eNNg) | [Arquivo](PHP/Operador%20de%20nave%20espacial.php)  |
 
 ## Strings
 
